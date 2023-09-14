@@ -1,0 +1,771 @@
+GATE_TYPE,GATE_NAME,COUNTY_NAME,NEIGHBORHOOD_NAME,LOCATION,STREET_NAME,LATITUDE,LONGITUDE
+Yaya Üst Geçidi,Narlıkapı Yaya Üst Geçidi,FATİH,KOCA MUSTAFAPAŞA,Sahil Kennedy Cad.,Sahil Kennedy Cad.,40.9950598535159,28.9310374216247
+Köprü,Volvo Köprü 1,ZEYTİNBURNU,KAZLIÇEŞME,Belediye ,Belediye ,40.988141349477,28.9093095215049
+Köprü,Kumcular Köprüsü,ZEYTİNBURNU,KAZLIÇEŞME,Kumcular,Sahil Kennedy Cad.,40.9814419152889,28.8960523831211
+Yaya Üst Geçidi,Yüzyıl Yaya Üst Geçidi,ESENLER,TUNA,O - 3,0-3,41.0542313055058,28.8604822535113
+Yaya Üst Geçidi,Karabayır Yaya Üst Geçidi,ESENLER,BİRLİK,0-3,0-3,41.0528757353227,28.8671016844922
+Araç Alt Geçidi,Kadife Kavşağı Tüneli 1,BAYRAMPAŞA,YENİDOĞAN,O3 Yanı,O3,41.0385841663864,28.9123867244307
+Köprü,O3 den E5 Bağlantı Köprüsü (Vatan Cad. Üzeri),ZEYTİNBURNU,MALTEPE,E5 Üstü,E5,41.0278264966585,28.9236394573098
+Köprü,Yüzyıl Köprü,ESENLER,TUNA,O3,O3,41.0544673343643,28.858585918996
+Araç Alt Geçidi,Eminönü Meydan Alt Geçidi,FATİH,RÜSTEMPAŞA,Eminönü Meydan,Eminönü Meydan,41.0177287474296,28.9715995518279
+Yaya Üst Geçidi,Topkapı Metrobüs Yaya Üst Geçidi,ZEYTİNBURNU,MALTEPE,E5 Topkapı,E5,41.0204843291967,28.9175820445456
+Köprü,Merter Köprü,BAKIRKÖY,OSMANİYE,Merter,E5,41.003382309922,28.8908009510843
+Yaya Üst Geçidi,Terazidere Yaya Üst Geçidi,ESENLER,NAMIK KEMAL,Terazidere Metro Durağı,Dumlupınar Cad.,41.0307319515357,28.8979734867417
+Köprü,Davutpaşa 1 (Otogar İstikameti),ESENLER,ÇİFTE HAVUZLAR,Davutpaşa,General Ali Rıza Gürcan Cad.,41.0207416707816,28.9004920467278
+Köprü,Adnan Menderes Kavşağı O3- E5 Kesişimi (D-100 Üzeri),EYÜP,TOPÇULAR,O3 Üstü (vatan Bağ.Yolu E5),O - 3,41.0278901617498,28.9251331782003
+Köprü,Çiftehavuzlar A.Ü.G,ESENLER,ÇİFTE HAVUZLAR,Şişecam Yanı,Kocayusuf Caddesi,41.0277146872422,28.8990127112274
+Yaya Üst Geçidi,Şükrübey Metrobüs Yaya Üst Geçidi,AVCILAR,GÜMÜŞPALA,Migros,D-100,40.98042697826,28.7312950593788
+Yaya Üst Geçidi,M.Kemalpaşa Metrobüs Yaya Üst Geçidi,AVCILAR,ÜNİVERSİTE,Bursa İskender Kebapcısı,D-100,40.9925031989304,28.7106862879489
+Yaya Üst Geçidi,İGS Metrobüs Yaya Üst Geçidi,AVCILAR,CİHANGİR,İGS,D-100,40.988531335609,28.7173052118662
+Yaya Üst Geçidi,İBB Sosyal Tesİsleri Üst Gecİt,AVCILAR,GÜMÜŞPALA,Yıkılacak,D-100,40.978176117748,28.7456729981137
+Yaya Üst Geçidi,Tahtakale Yaya Üst Geçidi,AVCILAR,TAHTAKALE,OPET Önü,O3 Kuzey Güney Yan Yol,41.055737889593,28.7285414562191
+Yaya Üst Geçidi,KOSKA Yaya Üst Geçidi,AVCILAR,CİHANGİR,KOSKA,D-100,40.9996596219191,28.6979688912854
+Köprü,Mimar Sinan Kavşağı,BÜYÜKÇEKMECE,MİMAR SİNAN MERKEZ,SHELL Yanı,D-100,41.0179939321307,28.5632276262959
+Köprü,Mİmar Sİnan Denİz-Göl Bağ.,BÜYÜKÇEKMECE,FATİH,İSKİ Önü,D-100,41.0194580750859,28.5723633587612
+Yaya Üst Geçidi,S Rrampası İniş,BÜYÜKÇEKMECE,19 MAYIS,S Rampası,D-100,41.0255364177246,28.6023618276828
+Köprü,Karaağaç Köyü Giriş Köprüsü,BÜYÜKÇEKMECE,KARAAĞAÇ,TEM Üstü,Dostluk Cad.,41.1052457244324,28.5846745565812
+Köprü,Bahşayiş Yolu TEM Köğrüsü Giriş,ÇATALCA,BAHŞAYİŞ,TEM Üstü,Aksaray Cad.,41.1065415435959,28.5464929744798
+Yaya Üst Geçidi,Bahçelievler Yaya Üst Geçidi,BAKIRKÖY,ZUHURATBABA,MEDICALPARK Önü,D-100,40.9952755154399,28.8641606989719
+Yaya Üst Geçidi,Çocuk Sitesi Yaya Üst Geçidi,BAHÇELİEVLER,BAHÇELİEVLER,Çocuk Sitesi,D-100,40.9938619051536,28.8594195705615
+Yaya Üst Geçidi,Şirinevler Yaya Üst Geçidi-1,BAHÇELİEVLER,ŞİRİNEVLER,Cengiz Topel Camii,D-100,40.9917683002828,28.8453202923642
+Köprü,Kuyumcukent Kavşağı,BAHÇELİEVLER,YENİBOSNA MERKEZ,Kuyumcukent,Kuyumcukent Kavşağı,40.9993471623275,28.8181957160057
+Köprü (Dere),Yassıören Girişi,ARNAVUTKÖY,YASSIÖREN,Bilinmiyor,Eski Edirne Caddesi,41.2347657730645,28.5984054445887
+Köprü (Dere),Boğazköy Girişi,ARNAVUTKÖY,BOĞAZKÖY İSTİKLAL,İSMET İNÖNÜ CAD.,İsmet İnönü Caddesi,41.1804905620528,28.7740961474822
+Köprü (Dere),Ağaçlı Köyü,EYÜP,AĞAÇLI,Ağaçlı Köy Yolu,Ağaçlı Köy Yolu,41.2697717636148,28.8799870569279
+Köprü (Dere),Pirinççi Köy Çıkışı,EYÜP,PİRİNÇÇİ,Pirinççi Köy Yolu,Pirinççi Köy Yolu,41.1629395139639,28.8526476974737
+Köprü (Dere),Dursunköy Girişi,ARNAVUTKÖY,DURSUNKÖY,DURSUNKÖY-BAKLALI CAD.,Dursunköy-Baklalı Caddesi,41.2050469681236,28.6384982545614
+Köprü (Dere),Kalfaköy-Dağyenice Yolu,ÇATALCA,KALFA,"Kalfaköy'den Dağyenice 
+Mahallesine Giderken 500 . Sonra",Kalfaköy Cad.,41.2880030130482,28.444467710134
+Yaya Üst Geçidi,Bağcılar-Güngören San.,BAŞAKŞEHİR,ZİYA GÖKALP,Güngören Sanayi Sit. Önü,Atatük Bulvarı,41.0780165437334,28.8083499948307
+Araç Alt Geçidi,Garanti Kavşağı,BAŞAKŞEHİR,ZİYA GÖKALP,Garanti Bankası Önü,Atatük Bulvarı,41.0807356440622,28.806782199235
+Araç Alt Geçidi,Onurkent Kavşağı,BAŞAKŞEHİR,BAŞAKŞEHİR,Onurkent Önü,Hürriyet Bulvarı,41.107584535974,28.7950975652249
+Araç Alt Geçidi,TEM Güney Yanyol Alli Kestanecİ,KÜÇÜKÇEKMECE,ATATÜRK,İkitelli İETT Garajı Yanı,O3 Ggüney Yan Yol,41.0632463999884,28.7877308725139
+Araç Alt Geçidi,Esenkent-Bahçeşehir Alt Geçidi,AVCILAR,YEŞİLKENT,Bahçekent Sitesi,Esenkent-Bahçeşehir Yolu,41.0569529984381,28.6920612998866
+Yaya Üst Geçidi,Güzelyurt Metrobüs,ESENYURT,GÜZELYURT,İbis Otel,D-100,41.0068121687052,28.6645470776307
+Araç Alt Geçidi,Liman Yolu Dolum Tesislerİ Alt Geçidi,BEYLİKDÜZÜ,YAKUPLU,Hz.Halit Camii Yanı,Liman yolu,40.9978275816336,28.6776520322372
+Araç Alt Geçidi,Yavuz Selİm Alt Geçİdİ,BÜYÜKÇEKMECE,PINARTEPE,Parlavista Önü,Yavuz Selim Cad.,41.0166785442371,28.6265484433067
+Araç Alt Geçidi,Fatih Sanayi Sit. Kavşağı,ESENYURT,ZAFER,Fatih Sanayi Sitesi Önü,Doğan Araslı Bulvarı,41.0149709668284,28.6920746113036
+Köprü,D-100 Yanyol Dere Köp-1,KÜÇÜKÇEKMECE,Bilinmiyor,İBB Mezarlıklar Müd.,D-100 Kuzey Yan Yol,40.9867464016252,28.7726137556942
+Araç Alt Geçidi,Toplu Konutlar-3,KÜÇÜKÇEKMECE,ATAKENT,Hürriyet Kavşağı,Toplu Konutlar-3,41.0494023263247,28.7936191608029
+Yaya Üst Geçidi,M.Akif Ersoy Yaya Üst Geçit-1,KÜÇÜKÇEKMECE,HALKALI MERKEZ,OPET,M.Akif Ersoy bulvarı,41.0296254367837,28.7954636387299
+Yaya Üst Geçidi,Fatih Cad Yaya Üst Geçidi,KÜÇÜKÇEKMECE,HALKALI MERKEZ,Y.K.B. Gösteri Merkezi,Fatih,41.0319309256439,28.8015748908552
+Yaya Üst Geçidi,Turgut Özal Yaya Üst Geçidi,KÜÇÜKÇEKMECE,İSTASYON,Atatürk Ortaokulu,Turgut Özal Bulvarı,41.0334073998124,28.7710668003002
+Köprü,Ataköy Kavşağı,BAKIRKÖY,ZUHURATBABA,Sinan Erdem Spor Salonu,D-100,40.9918611463153,28.8512536458539
+Yaya Üst Geçidi,Forya Kavşağı,BAKIRKÖY,ŞENLİKKÖY,Florya Yeni Camii,Forya Kavşağı,40.9881584087555,28.7944810024862
+Köprü,Strazburg Cad. Tren Köprüsü,BAKIRKÖY,ATAKÖY 2-5-6. KISIM,Ataköy Polis Karakolu,Strazburg Cad,40.9798932010322,28.8633592887563
+Köprü,Ataköy 5.Kısım Kavşağı,BAKIRKÖY,ATAKÖY 2-5-6. KISIM,Ataköy Konakları,Rauf Orbay,40.97613722955,28.852402000734
+Köprü,Akmesçit Sok..Tren Üst Köprü,BAKIRKÖY,ATAKÖY 1. KISIM,Bakırköy Spor Kulübü,Akmescit,40.9797407380047,28.8675617864703
+Yaya Üst Geçidi,Kadınlar Çeşmesi Durağı  Yaya Üst Geçidi,BEYOĞLU,İSTİKLAL,Kadınlar Çeşmesi Durağı Yanı Piyalepaşa Bulvarı Feriköy Mezarlığı Girişi,Piyalepaşa Bulvarı,41.0453732623607,28.9680710278136
+Yaya Üst Geçidi,Halıcıoğlu Metrobüse Geçit Köprüsü Yaya Üst Geçidi,BEYOĞLU,MEHMET AKİF ERSOY,Halıcıoğlu Metrobüse Geçit Köprüsü,E-5 Karayolu,41.0493220008987,28.9469399011222
+Araç Alt Geçidi,Okmeydanı Giriş Çıkış E-5 Bağlantı Yolları Araç Alt Geçidi,BEYOĞLU,TALATPAŞA,Okmeydanı Giriş Çıkış E-5 Bağlantı Yolları,Okmeydanı Kavşağı,41.0559893541113,28.9603393271002
+Yaya Üst Geçidi,Okmeydanı AKOM İstikameti Yaya Üst Geçidi,ŞİŞLİ,MEHMET AKİF ERSOY,Okmeydanından AKOM İstikameti,O-2,41.0567940906948,28.9585321907721
+Köprü,Baltalimanı Yeni Yol Etiler TEM Bağlantı Araç Üst Geçidi,BEŞİKTAŞ,ETİLER,Baltalimanı Yeni Yol Etiler TEM Bağlantı,Tem-Etiler Bağlantı Yolu (E80 (O2) Baltalimanı Bağl.,41.0894846906096,29.0357107852758
+Araç Alt Geçidi,Levent Harp Akademileri TEM Üst Geçidi,BEŞİKTAŞ,KONAKLAR,Levent Harp Akademileri TEM Üst Geçidi,TEM,41.0962592360747,29.0172675645542
+Kombine Geçit,PERPA Üst Geçit,BEYOĞLU,TALATPAŞA,PERPA Üst Geçit,Darülaceze Cad.,41.0631320098387,28.9683726300285
+Köprü,Seyrantepe Hastanesi Araç Üst Geçit,ŞİŞLİ,HUZUR,Seyrantepe Hastanesi Önünde Kalan Üst Geçit,O-2,41.1017915250199,28.998109836647
+Yaya Üst Geçidi,İETT Fakülte Durak Önü,SARIYER,REŞİTPAŞA,İETT Fakülte Durak Önü,Büyükdere Cad.,41.1080474408784,29.0190298490105
+Araç Alt Geçidi,Sabancı Kuleleri Önü Araç Alt Geçidi,BEŞİKTAŞ,KONAKLAR,Sabancı Kuleleri Önü,Akçam Cad.,41.0848998041887,29.0120860676355
+Araç Alt Geçidi,Akmerkez Levazım Yolu Araç Alt Geçidi,BEŞİKTAŞ,NİSBETİYE,Akmerkez Levazım Yolu Karayolları Binası Önü,Akmerkez Levazım Yolu,41.0687934484239,29.0147713307192
+Yaya Alt Geçidi,Kabataş Durağı Yaya Alt Geçidi,BEYOĞLU,ÖMER AVNİ,Kabataş Durağı,Meclis-i Mebusan Cad.,41.0339441067109,28.9922481564573
+Araç Alt Geçidi,Büyükdere Caddesi Çeliktepe Girişi İkinci Araç Alt Geçidi,ŞİŞLİ,ESENTEPE,Büyükdere Caddesi Çeliktepe Girişi İkinci Alt Geçit,İsmet İnönü Cad.,41.0846087347335,29.0073215502547
+Yaya Üst Geçidi,Fenertepe Yaya Üst Geçidi,ARNAVUTKÖY,BOĞAZKÖY İSTİKLAL,Fenertepe Havacılık Kışlası Önü,Eski Edirne Asfaltı,41.1478647440708,28.7910041067669
+Yaya Üst Geçidi,Hoca Ahmet Yesevi Yaya Üst Geçidi,SULTANGAZİ,ESENTEPE,Hoca Ahmet Yesevi,Hoca Ahmet Yesevi Bulvarı,41.0974228346713,28.8761068394605
+Yaya Üst Geçidi,Avrupa TEM Konutları 2 Yaya Üst Geçidi,GAZİOSMANPAŞA,MEVLANA,Avrupa TEM Konutları 2,Hekimsuyu Cad.,41.0866069885548,28.9080829357211
+Araç Alt Geçidi,Beşyol,GAZİOSMANPAŞA,YENİ MAHALLE,Küçükköy Stadı,Cebeci Cad.,41.0772103367992,28.8999172508765
+Araç Alt Geçidi,Şehit Mustafa Yeşil,GAZİOSMANPAŞA,MERKEZ,Cumhuriyet Meydanı,Ordu-Çukurçeşme Cad.,41.058088435593,28.9141115748014
+Köprü,Sanko,SULTANGAZİ,50. YIL,Sanko,Hoca Ahmet Yesevi Bulvarı,41.0910513781543,28.8827864973592
+Köprü (Dere),Yıldırım Beyazıt Köprüsü,ARNAVUTKÖY,HİCRET,YILDIRIM BEYAZIT CAD.,Yıldırım Beyazıt,41.1976530337153,28.7637707844709
+Köprü (Dere),İzzettin Köprüsü,ÇATALCA,KALEİÇİ,"Çatalca Yol Bbaşlangıcından
+750 m. Sonra",İstasyon Cad.,41.1502550508837,28.4718184312768
+Menfez,Hisarbeyli - Celep Yolu,ÇATALCA,CELEPKÖY,"Celepköy'den Hisarbeyli
+istikametine giderken 800 m
+sonra",Karakartal Cad.,41.366512447909,28.49282110908
+Köprü (Dere),Ormanlı Köprüsü 1,ÇATALCA,ORMANLI,"Ormanlı'dan Hisarbeyli İstikametine
+ Giderken 750 m. Sonra",Karacaköy Cad.,41.3855370134949,28.4573271525394
+Köprü (Dere),Bekirli - İhsaniye Yolu 2,ÇATALCA,İHSANİYE,"İhsaniye'den Bekirli
+ İstikametine Giderken 3+000 km
+. Sonra",Bekirli Cad.,41.2449546062946,28.3282272958129
+Köprü (Dere),İnceğiz Köprüsü,ÇATALCA,İNCEĞİZ,"İnceğiz'den Akören İstikametine
+ Giderken 500 m. Sonra",Hanice Cad.,41.187116355802,28.4116388685671
+Menfez,Karamandere-Karacaköy Yolu 3,ÇATALCA,KARACAKÖY MERKEZ,Karacaköy'den Karamandere İistikametine Giderken 2+400 km. Sonra,Karaca Ahmet Paşa Cad.,41.4011919284432,28.3696815039272
+Köprü (Dere),Karamandere Mahallesi 2,ÇATALCA,KARAMANDERE,Karamandere Mahallesi Girişi,Müstesna Sok.,41.3785929776103,28.2966355403856
+Menfez,Ovayenice Giriş 1,ÇATALCA,OVAYENİCE,Ovayenice Mah.Ortaköy İstikametinde Giriş,Semazen Cad.,41.0989536316098,28.4144869562678
+Köprü (Dere),Örcünlü-Nakkaş Yolu ,ÇATALCA,ÖRCÜNLÜ,Örcünlü Camiiden İtibaren Nakkaş İstikametinde 1+700 km. Sonra,Başkomutan Cad.,41.2115105113038,28.5319499995542
+Köprü,Değirmenköy-B.Çavuşlu Yolu,SİLİVRİ,BÜYÜK ÇAVUŞLU,Çerkezköy İstanbul Yolundan Değirmenköy İstikametine 2+400 km. Sonra TEM Üst Geçiş Köprüsü,Gölet Cad.,41.201720050462,28.0601631475204
+Köprü (Dere),Çayırdere-Hallaçlı Yolu 2,SİLİVRİ,ÇAYIRDERE,"Çayıdere Yönünden Hallaçlı  İsitikametine 
+Giderken Mahalle Çıkışından 750 m. Sonra",Milli Şair Cad.,41.2874613175263,28.1357659968876
+Menfez,Değirmenköy-B.Çavuşlu Yolu 2,SİLİVRİ,İSMETPAŞA,Tavukçu Yolu Mevkii,Gölet Cad.,41.1132202473082,28.0168614337362
+Menfez,Ortaköy-Kavaklı Yolu,SİLİVRİ,ORTAKÖY,Yel Değirmeni Cad. Mevkii,Kavaklı Cad.,41.08968100696,28.3593756075181
+Menfez,Akören-Kadıköy Yolu 2,SİLİVRİ,AKÖREN,"Akören Yönünden Kadıköy 
+İstikametine Giderken 2+200 km. Sonra",Uygun Sok.,41.1832959647992,28.3632913140336
+Yaya Üst Geçidi,Mimar Sinan Üst Geçidi,BÜYÜKÇEKMECE,MİMAR SİNAN MERKEZ,İnönü 2 Cad.,D100 Karayolu,41.0172450333444,28.5597527296422
+Yaya Üst Geçidi,Feyyaz Altınorak Üst Geçidi,SİLİVRİ,ALİBEY,Alibey Camii,D100 Karayolu,41.0762676981245,28.2509943701487
+Araç Alt Geçidi,Kavaklı-Gazitepe Yolu,SİLİVRİ,KAVAKLI,Tem Yolu Birleşimi,İstiklal Cad.,41.1001537244643,28.3329746339168
+Köprü (Dere),Fener-Silivri Yolu 1,SİLİVRİ,FENER ,Akören Dört Yoldan Fener İstikametine doğru 1+500 km sonra,Mustafa Kemal Cad.,41.1446461731239,28.2658920063706
+Araç Üst Geçidi,Medipol Mega Önü Araç Üst Geçidi 2,BAĞCILAR,GÖZTEPE,Medipol Mega Önü,Bilinmiyor,41.0576218719149,28.8455096751384
+Bilinmiyor,Bilinmiyor,BAĞCILAR,Bilinmiyor,Bilinmiyor,Bilinmiyor,41.064224320036,28.8328360004563
+Yaya Üst Geçidi,S Rrampası İniş-2 Askerlik subesi,BÜYÜKÇEKMECE,Bilinmiyor,S Rrampası İniş-2 Askerlik subesi,D-100 Karayolu,41.0198655350836,28.5780376226965
+Araç Alt Geçidi,Mahmutbey Batı Kavşağı Araç Alt Geçidi,BAŞAKŞEHİR,ZİYA GÖKALP,Mahmutbey Batı Kavşağı Basın Ekspress Bağlantısı,Mahmutbey Batı Kavşağı,41.0612366171532,28.8102098871753
+Viyadük,Bahçeşehir Viyadüğü,BAŞAKŞEHİR,BAHÇEŞEHİR 1. KISIM,Esenkent Bahçeşehir Bağlantı Yolu Üstü,TEM,41.0590434504066,28.698720511983
+Araç Üst Geçidi,O-2 TEM Bağlantı Köprüsü,BAĞCILAR,GÖZTEPE,Mahmutbey Yönünden TEM Bağlantısı,O-2,41.060778901848,28.8423632737
+Yaya Üst Geçidi,Ispartakule Bİzİmevler-6 Yaya Üst Geçİt,AVCILAR,TAHTAKALE,İhlas Evleri,O3 Kuzey Yan Yol,41.0597265668538,28.7039381634564
+Araç Alt Geçidi,TEMA İstanbul Tem Üst Geçit Köprüsü,KÜÇÜKÇEKMECE,ATAKENT,TEMA İstanbul Önü,O-3 Güney Yanyol,41.0623196698342,28.7650973578165
+Araç Üst Geçidi,TEM Kuzey Yanyol MALL OF Önü 2,BAŞAKŞEHİR,ZİYA GÖKALP,Mall Of Önü,Yanyol Caddesi,41.0626921070336,28.8035606715526
+Araç Alt Geçidi,42 Evler Girişi Köprüsü,BAĞCILAR,100. Yıl,42 Evler Yüzyıl Girişi Veysel Karani Caddesi Bağlantısı,Veysel Karani Caddesi,41.0720251310695,28.8533891795035
+Araç Alt Geçidi,Kanuni Sultan Süleyman Cad. Araç Alt Geçidi,BAŞAKŞEHİR,BAŞAK,4.Etap Arkası YSS Bağlantı Yolu,Kanuni Sultan Süleyman Cad.,41.103271611824,28.810193655935
+Araç Alt Geçidi,Akmescit Sok. Araç Alt Geçidi,BAKIRKÖY,ATAKÖY 1. KISIM,Bakırköy Spor Kulübü,Akmescit sk,40.9800335897952,28.8675874722798
+Yaya Üst Geçidi,Ssk Okmeydanı Hastane Yaya Üst Geçidi,ŞİŞLİ,KAPTANPAŞA,Ssk Okmeydanı Hastane Yaya Üst Geçidi,O-1,41.0673692783476,28.9754142746119
+Araç Üst Geçidi,Mahmutbey İstoç Köprü,BAĞCILAR,MAHMUTBEY,İstoç-Oto Ticaret - Mahmutbey Köprü,Mahmutbey Caddesi,41.0689455816486,28.8338135234618
+Araç Alt Geçidi,TEM-Haramadire Bağlantı Yolu Araç Alt Geçidi,ESENYURT,ESENKENT,Bahçeşehir- Haramidere Bağlantısı,E-5 Tem Haramidere Bağlantı Yolu,41.0550114820602,28.6823791490165
+Viyadük,O 2 Viyadük,BAĞCILAR,100.Yıl,O-2 Hüseyin Karaaslan Caddesi,O-2,41.0634164713481,28.848620486665
+Köprü,Armutlu Tem Katılımı,SARIYER,RUMELİ HİSARI,Tem Etiler Bağlantı Yolu Üstü,Baltalimanı Hisarüstü Yolu,41.0906834947762,29.0468996584464
+Köprü (Dere),Çatalca - Gökçeali Yolu 2,ÇATALCA,KALEİÇİ,İnceğiz Kavşağından Gökçeali İstikametinde 1+000 km.,Gökçeali Cad.,41.1762080918475,28.4531414296492
+Araç Üst Geçidi,Bilinmiyor,Bilinmiyor,Bilinmiyor,Bilinmiyor,Bilinmiyor,41.0755009288046,28.8385492857339
+Araç Üst Geçidi,YSS Yolu Mahmutbey Gişeler Bağlantı Köprüsü,BAŞAKŞEHİR,ZİYA GÖKALP,Mall Of İstanbul Karşısı,Bilinmiyor,41.0638654649687,28.8118639741041
+Araç Üst Geçidi,Kızılay Caddesi Bağlantı Köprüsü,BAŞAKŞEHİR,ZİYA GÖKALP,O-6 Bağlantı Yolu Kızılay Caddesi Kesişimi,Kızılay Caddesi,41.0825658611455,28.8129073010222
+Köprü (Dere),Fener-Silivri Yolu 2,SİLİVRİ,FENER ,Akören Dört Yoldan Fener İstikametine doğru 1+940 km sonra,Mustafa Kemal Cad.,41.1463980782441,28.2614430667294
+Araç Üst Geçidi,TEM Bahçeşehir Bağlantı Köprüsü,AVCILAR,TAHTAKALE,TEM Bahçeşehir Bağlantısı,Bilinmiyor,41.0561327351375,28.7126606535465
+Yaya Üst Geçidi,Yıldız Teknik Üniversitesi Önü,BEŞİKTAŞ,YILDIZ,Yıldız Teknik Üniversitesi Önü,Barbaros-E-5 Bağlantı Yolu,41.0511951927847,29.0090583837612
+Köprü (Dere),Bekirli - İhsaniye Yolu 4,ÇATALCA,İHSANİYE,İhsaniye'den Bekirli İstikametine Giderken 1+000 km. Sonra,Bekirli Caddesi,41.2443498909005,28.347563832483
+Yaya Üst Geçidi,Selimpaşa Çıkış Yaya Üst Geçit,SİLİVRİ,SELİMPAŞA,Selimpaşa çıkışı  Silivri İstikametinde 1+000 km ,D100 Karayolu,41.0590327538181,28.3577094402499
+Araç Alt Geçidi,Memorial Bahçelievler Önü,BAHÇELİEVLER,Bilinmiyor,Şirinevler Yanyol Bağlantısı,Bilinmiyor,40.9927407858503,28.851522696463
+Araç Alt Geçidi,CNR Araç Alt Geçidi,BAKIRKÖY,YEŞİLKÖY,CNR,Havalimanı yolu,40.9851630597794,28.8266399473291
+Araç Üst Geçidi,Nurtepe Kavşağı Köprüsü,EYÜP,GÜZELTEPE,Nurtepe,Nurtepe Kavşağı,41.0651290676985,28.9513012450866
+Araç Alt Geçidi,Büyükdere Cad. 4.Levent Araç Alt Geçidi,BEŞİKTAŞ,ESENTEPE,Büyükdere Cad.,Büyükdere Cad.,41.0932884064364,29.0052020067664
+Köprü,Ç.Çeşme Kavşağı-3,KÜÇÜKÇEKMECE,KARTALTEPE,Havaalanı Yanı E-5 Bağlantısı,D-100,40.9921321071239,28.8184088897634
+Köprü,Volvo Köprü 1,ZEYTİNBURNU,KAZLIÇEŞME,Demirhane Caddesi Zübeyde Hanım Cad. Kesişimi,Demirhane Caddesi,40.9885576015596,28.9085015318285
+Yaya Üst Geçidi,Saya Yokuşu Üst Geçidi,EYÜP,ÇIRÇIR,Alibeyköy,Atatürk Bulvarı,41.0798701723443,28.9321794900509
+Yaya Üst Geçidi,Derimod Yaya Üst Geçidi,ZEYTİNBURNU,KAZLIÇEŞME,2.B Belediye Önü,Sahil Kennedy Cad.,40.9863077021952,28.9094969388809
+Yaya Üst Geçidi,Kumcular Yaya Üst Geçidi,ZEYTİNBURNU,KAZLIÇEŞME,Kumcular,Sahil Kennedy Cad.,40.9818344972245,28.8927692090763
+Köprü,Şehit Şenol Özgül Köprüsü,BAĞCILAR,100. YIL,Barbaros Caddesi,0-3,41.0549688296164,28.8548921845927
+Köprü,Tekstilkent Üst Geçidi,ESENLER,ORUÇREİS,TEM,Tekstilkent Arkası,41.0672580948894,28.8597459935825
+Araç Alt Geçidi,Birlik Alt Geçidi (Liman Sok. Matbaacılar Cad.Kesişimi),BAĞCILAR,GÖZTEPE,O3 Altı,Matbaacılar Cad.,41.0580137314078,28.846004603805
+Araç Alt Geçidi,Birlik Alt Geçidi 1.,BAĞCILAR,100. YIL,O3 Altı,Veysel Karani Cad.,41.0562934065939,28.8493755722668
+Araç Alt Geçidi,Mehmet Akif Ersoy Gazi Cad.Kesişimi Köp.,ESENLER,BİRLİK,O3 Altı,Çinçindere Alt Geçidi,41.0533122373088,28.8656223682077
+Araç Alt Geçidi,Kadife Kavşağı  Tünel 2,BAYRAMPAŞA,YENİDOĞAN,O3 Altı,O3,41.0385202111096,28.9154088373884
+Köprü,Aksaray Köprülü Kavşak İSKİ Önü Bağlantı Yolu),FATİH,İSKENDERPAŞA,Aksaray Meydanı Bağ. Yolu,Aksaray Meydanı Bağ. Yolu,41.0096406677991,28.9503349744668
+Köprü,Aksaray Üst Geçidi 1,FATİH,KEMALPAŞA,Kemalpaşa ,Atatürk Bulvarı,41.0096697804924,28.9533599196839
+Araç Alt Geçidi,Topçular,EYÜP,TOPÇULAR,Vatan Bağ. Yolu,O3,41.0302696560892,28.9221756067431
+Araç Alt Geçidi,Otogar Giriş Alt Geçidi,BAYRAMPAŞA,ALTINTEPSİ,Otogar Önü,Otogar Yolu,41.0360783921091,28.8947222806133
+Yaya Alt Geçidi,Eminönü Yaya Alt Geçidi 1.,FATİH,HOBYAR,Eminönü Meydan,Reşadiye Caddesi,41.0172171476959,28.9730905994499
+Yaya Üst Geçidi,Otakçılar Yaya Üst Geçidi,EYÜP,DEFTERDAR,E5 Altı,Otakçılar Cad.,41.0377756702227,28.937323705853
+Araç Alt Geçidi,Edirnekapı Araç Alt Geçidi,EYÜP,DEFTERDAR,Edirnekapı,Savaklar Cad.,41.0313480848053,28.9355550025353
+Yaya Üst Geçidi,Londra Asfaltı Metrobüs Yaya Üst Geçidi,AVCILAR,GÜMÜŞPALA,KIA Motor Önü,D-100,40.9788853644294,28.7339457441097
+Yaya Üst Geçidi,Hacı Şerİf Metrobüs Yaya Üst Geçidi,AVCILAR,DENİZKÖŞKLER,IVECO GENPAR Önü,D-100,40.9773159468832,28.7408544962132
+Araç Alt Geçidi,Vatan Kavşağı,AVCILAR,GÜMÜŞPALA,Küçükçekmece Sahil,D-100,40.9793255299247,28.7489520620268
+Araç Alt Geçidi,Üniversite Önü Tünel,AVCILAR,ÜNİVERSİTE,Üniversite Önü,Firuzköy Bulvarı,40.9885647447718,28.7213072688314
+Yaya Üst Geçidi,Fİruzköy Bulvari Avcılar Sanyi Önü Yaya Üst Geçidi ,AVCILAR,FİRUZKÖY,Avcılar Sanayi Önü,Firuzköy Bulvarı,41.0122319826396,28.6972206194987
+Araç Alt Geçidi,Kurçeşme Alt Geçidi,AVCILAR,GÜMÜŞPALA,Migros Önü,Kuruçeşme Cad,40.9799624858951,28.7320497136893
+Araç Alt Geçidi,Tahtakale TEM Üst Köprüsü,AVCILAR,TAHTAKALE,Işık Okulları Önü,O3 Kuzey Güney Yan Yol,41.0543788662496,28.7207499169285
+Araç Alt Geçidi,Büyükçekmece Alt Geçidi,BÜYÜKÇEKMECE,FATİH,Kolan Hastanesi Yanı,Cengiz Topel,41.022761854555,28.5846724796667
+Araç Alt Geçidi,Alkent U Dönüşü,BÜYÜKÇEKMECE,ALKENT 2000,Hadımköy Gişe,Alkent U Dönüşü,41.0810975882994,28.6265475181029
+Araç Alt Geçidi,Adnan Kahveci Geçidi,BÜYÜKÇEKMECE,19 MAYIS,Migros Karşısı,Adnan Kahveci,41.0239403350568,28.586344440118
+Araç Alt Geçidi,Haznedar Kavşağı,BAHÇELİEVLER,BAHÇELİEVLER,Balıkçı Kenan,Adnan Kahveci Bılvarı,41.006272808375,28.8705713118523
+Köprü,Yenibosna Köprüsü,BAHÇELİEVLER,FEVZİ ÇAKMAK,Kuleli,Yıldırım Beyazıt,40.9923209146863,28.8356860965917
+Araç Alt Geçidi,Değirmen Bahçe Alt Geçidi,BAHÇELİEVLER,YENİBOSNA MERKEZ,STARCITY,Değirmen Bahçe Alt Geçidi,41.0115154070947,28.8180309603933
+Yaya Üst Geçidi,Hasan Doğan,BAHÇELİEVLER,CUMHURİYET,Hasan Doğan Spor Salonu,Kemal sunal,41.0187548692864,28.8487382372775
+Yaya Üst Geçidi,Vergi Dairesi ,BAŞAKŞEHİR,ZİYA GÖKALP,Vergi Dairesi Önü,Atatük Bulvarı,41.0732039621873,28.8104943530741
+Köprü (Dere),Terkos Girişi,ARNAVUTKÖY,BAKLALI,Bilinmiyor,Terkos-Karaburun Caddesi,41.2992703198827,28.6722083063103
+Köprü (Dere),Terkos-Karburun Arası,ARNAVUTKÖY,Bilinmiyor,TERKOS-KARABURUN CAD.,Terkos-Karaburun Caddesi,41.3172882646555,28.6752488022973
+Köprü (Dere),İhsaniye Köprüsü,EYÜP,İHSANİYE,Bolluca-İhsaniye Yolu,Bolluca-İhsaniye Yolu,41.2387777753607,28.8084674212149
+Köprü (Dere),Işıklar Köyü Girişi,EYÜP,IŞIKLAR,Işıklar-İstanbul  Caddesi,Işıklar-İstanbul  Caddesi,41.2255578082596,28.8298493643742
+Köprü (Dere),Çiftalan Köy Yolu,EYÜP,MİTHATPAŞA,Davutpaşa Caddesi,Davutpaşa Caddesi,41.1926310154823,28.916036453982
+Köprü (Dere),Hamidiye Önü,EYÜP,MİTHATPAŞA,Selanik Bulvarı,Selanik Bulvarı,41.1480171157,28.9207158373601
+Köprü (Dere),Kemerburgaz Girişi,EYÜP,MİTHATPAŞA,Pirinççi Yolu,Pirinççi Yolu,41.1613109133889,28.9063166050635
+Köprü (Dere),Başakköy-Ormanlı Yolu,ÇATALCA,BAŞAK,Başakköy Mahalle Çıkışında İSKİ Tesisi Mevkii,Sultan Süleyman Cad.,41.3347254672191,28.4528206924256
+Köprü (Dere),Dağyrenice Mahallesi,ÇATALCA,DAĞYENİCE,"Çanakça Yönünden Dağyenice
+ Mahallesine Girişte",Karacaköy Cad.,41.2708273180726,28.4838880005602
+Köprü,Kuzey Yanyol MASKO Köp.,BAŞAKŞEHİR,ZİYA GÖKALP,MASKO Önü,TEM Kuzey Yanyol,41.0643465069533,28.7874292620007
+Yaya Üst Geçidi,Bayramtepe Yaya Üst Geçidi,BAŞAKŞEHİR,ALTINŞEHİR,Alltınşehir,TEM Kuzey Yanyol,41.0627053401289,28.7519475227443
+Araç Alt Geçidi,MASKO 1.No'lu  Kapı Önü Alt Geçit,BAŞAKŞEHİR,ZİYA GÖKALP,MASKO 1 No'lu Kapı Önü,O3 Kuzey Yan Yol,41.0639524750517,28.7946017007552
+Köprü,TEM Kuzey Yanyol MALL OF Önü 1,BAŞAKŞEHİR,ZİYA GÖKALP,MALL OF Yanı,TEM Kuzey Yanyol,41.0627961368526,28.8032246885762
+Köprü,Altınşehir Tarihi Köprü,BAŞAKŞEHİR,ŞAHİNTEPE,Göl Üstü,Eski İstanbul Cad.,41.0636631681149,28.7432417813572
+Araç Alt Geçidi,Esenkent-Bahçeşehir Tüneli,BAŞAKŞEHİR,BAHÇEŞEHİR 2. KISIM,Bahçekent Sitesi,Esenkent-Bahçeşehir Yolu,41.0591600012447,28.6897577057797
+Araç Alt Geçidi,Beledİye Önü Alt Geçit,ESENYURT,MEVLANA,Beylikdüzü Meydanı,D-100,41.0116912189981,28.6512938251797
+Araç Alt Geçidi,M.Akif Caddesİ Alt Geçİt,BEYLİKDÜZÜ,YAKUPLU,MEDIAMARKET,M.Akif,41.0061137983956,28.6679924944897
+Yaya Üst Geçidi,Anadolu Şark Sofrası Önü Yaya Üst Geçidi,ESENYURT,GÖKEVLER,Anadolu Şark Sofrası Önü,Hadımköy Yolu Cad.,41.0252886842253,28.6284002728858
+Köprü,Evren Oto Sanayİ Kavşağı,ESENYURT,KOZA,Evvren Oto sSnayi,Evren Oto Sanayİ Kavşağı,41.056596393151,28.6612480317629
+Yaya Üst Geçidi,Azİz Mahmut Hüdaİ Yaya Üst Geçidi ,ESENYURT,OSMANGAZİ,METRO Market,Kıraç-Hadimköy Yolu,41.0538247689866,28.6278543653236
+Köprü,Toplu Konutlar-1,KÜÇÜKÇEKMECE,ATAKENT,"1,Etap",Toplu Konutlar-1,41.046318222554,28.792861813433
+Yaya Üst Geçidi,Yeşilova,KÜÇÜKÇEKMECE,İSTASYON,Sevcan Otel,D-100,40.9861189340481,28.7866107800401
+Yaya Üst Geçidi,Beşyol,KÜÇÜKÇEKMECE,BEŞYOL,Gültepe İlkokulu,D-100,40.9949431125093,28.7951015950269
+Yaya Üst Geçidi,Küçükçekmece Metrobüs,KÜÇÜKÇEKMECE,FATİH,İBB Mezarlıklar Müd.,D-100,40.9863439417467,28.7694167088253
+Köprü,Halkalı Gümrük Tır Köprüsü,KÜÇÜKÇEKMECE,İSTASYON,Gümrük,İstasyon,41.0176064024339,28.7686239284983
+Köprü,Taşhan Kavşağı,BAKIRKÖY,SAKIZAĞACI,Bakırköy Beled.Tıp Merkezi,Taşhan Kavşağı,40.9780570097097,28.8851206787166
+Yaya Üst Geçidi,İncirli,BAHÇELİEVLER,BAHÇELİEVLER,ETHICA Hastanesi,D-100,40.9980088740586,28.8729711305125
+Köprü,Hava Harp Okulu Köprüsü,BAKIRKÖY,YEŞİLKÖY,Hava Harp Okulu,Rauf Orbay,40.9698726158308,28.8407321137281
+Köprü,Florya Cad. Tren Köp.,BAKIRKÖY,BASINKÖY,Güneş Plajı,Florya Cad. Tren Köp.,40.9723203063631,28.7893689232507
+Köprü,Merter-2 Kavşağı,BAKIRKÖY,OSMANİYE,Marmara FORUM,Merter-2 Kavşağı,40.9991011958933,28.8867650924608
+Yaya Üst Geçidi,İstiklal Mahallesi Muhtarlığı Önü Yaya Üst Geçidi,BEYOĞLU,KAPTANPAŞA,İstiklal Mahallesi Muhtarlığı Önü,Piyalepaşa Bulvarı,41.0391454873893,28.9672558146391
+Köprü,Sait Çiftçi Barbaros Boğaziçi Köprüsü Üst Geçidi ,BEŞİKTAŞ,CİHANNÜMA,Sait Çiftçi Barbaros Boğaziçi Köprüsü Üst Geçidi Yıldız,Yıldız Cad. Bağlantı Yolu,41.05113026359,29.0086352793308
+Araç Alt Geçidi,TEM Alt Geçit Akatlar Spor Klübü Önü Araç Alt Geçidi,BEŞİKTAŞ,KONAKLAR,TEM Alt Geçit Akatlar Spor Klübü Önü,Bağlantı Yolu,41.0930231669581,29.022415762683
+Yaya Üst Geçidi,Mecidiyeköy Metrobüs Yaya Üst Geçidi,ŞİŞLİ,KUŞTEPE,Mecidiyeköy Metrobüs Üst Geçit,O - 1 Otoyolu,41.0670863088753,28.9907900939216
+Köprü,Haliç Atatürk Köprüsü,BEYOĞLU,Bilinmiyor,Haliç Atatürk Köprüsü,E-5 Karayolu,41.0437428863412,28.9418958880137
+Araç Alt Geçidi,Tershane Caddesi Şişhane Katılımı Araç Alt Geçidi,BEYOĞLU,BEDRETTİN,Tershane Caddesi Şişhane Katılımı,Tersane Kavşağı Bağlantı Yolu,41.0257979780755,28.9686370882401
+Yaya Üst Geçidi,İTÜ Önü Yaya Üst Geçidi,SARIYER,REŞİTPAŞA,İTÜ Önü Yaya Üst Geçidi,Katar Cad.,41.1082614753861,29.0227637635887
+Araç Alt Geçidi,Atatürk Sanayi Sitesi Maslak Araç Alt Geçidi,ŞİŞLİ,DARÜŞŞAFAKA,Atatürk Sanayi Sitesi Maslak,Büyükdere Cad.,41.1160864537278,29.0245264937398
+Viyadük,AKOM Karşısı Araç Üst Geçidi,KAĞITHANE,GÜZELTEPE,AKOM Karşısı,Nurtepe Viyadüğü,41.0895463367623,28.9607147849635
+Viyadük,Kağıthane Çıkışı Sadabat 2. Köprü  Araç Üst Geçidi,KAĞITHANE,MERKEZ,Kağıthane Çıkışı Sadabat 2. Köprü,O-2,41.0676668210188,28.9572741574184
+Araç Alt Geçidi,Büyükdere Caddesi Çeliktepe Girişi Araç Alt Geçidi,ŞİŞLİ,KONAKLAR,Büyükdere Caddesi Çeliktepe Girişi,Selvili Sk.,41.0851965269917,29.0091822685986
+Yaya Üst Geçidi,Vadi İstanbul Önü Yaya Üst Geçidi,KAĞITHANE,HUZUR,Vadi İstanbul Önünde Kalan Üst Geçit Okmeydanı Sarıyer İstikameti ,Vadi İstanbul Önünde Kalan Üst Geçit Okmeydanı Sarıyer İstikameti ,41.1007136532527,28.9849676067041
+Köprü,Silahtarağa Tünel Girişi Araç Üst Geçidi,KAĞITHANE,MERKEZ,Silahtarağa Tünel Giriş Çıkış Kolları,İmrahor Cad.,41.0643995061736,28.9538150993204
+Araç Alt Geçidi,Mescid-i Selam Araç Alt Geçidi,SULTANGAZİ,CEBECİ,Mescid-i Selam,Mahmetbey Cad.,41.1155798217993,28.8521827510505
+Araç Alt Geçidi,Lütfi Aykaç Bulvarı Araç Alt Geçidi,SULTANGAZİ,YUNUS EMRE,Lütfi Aykaç Bulvarı Araç Alt Geçidi,Lütfi Aykaç Bulvarı,41.0917048115274,28.8958968852475
+Araç Alt Geçidi,Malkoçoğlu Araç Alt Geçidi,SULTANGAZİ,ASKERİ BÖLGE ESENLER,Malkoçoğlu,Mahmutbey Cad.,41.1112752990074,28.8479570854763
+Köprü (Dere),Sevban Ahmet Köprü,ARNAVUTKÖY,İMRAHOR,Sevban Ahmet Caddesi Üstü,Sevban Ahmet,41.2121610075635,28.7428758034976
+Köprü (Dere),Çayırdere-Hallaçlı Yolu 4,ÇATALCA,HALLAÇLI,İlçe Sınırından 750 m. Sonra,Milli Şair Cad.,41.3085273223294,28.1159420015813
+Menfez,Çayırdere-Hallaçlı Yolu 5,ÇATALCA,HALLAÇLI,İlçe Sınırından 1+850 km. Sonra,Milli Şair Cad.,41.3165296665665,28.1074918264609
+Menfez,Ormanlı Köprüsü 3,ÇATALCA,ORMANLI,"Ormanlı'dan Hisarbeyli İstikametine
+ Giderken 1+000 km . Sonra",Karacaköy Cad.,41.3827544100261,28.4567568618105
+Köprü (Dere),Bekirli - İhsaniye Yolu 1,ÇATALCA,İHSANİYE,"İhsaniye'den Bekirli
+ İstikametine Giderken 1+800 km
+. Sonra",Bekirli Cad.,41.2425600425188,28.3426239279842
+Köprü,Bahşayiş- Karaağaç Yolu,ÇATALCA,BAHŞAYİŞ,Hezarfen Çelebi Havaalanı Mevkii,Aksaray Cad.,41.1065397328457,28.5464622168101
+Menfez,Çanakca - Kestanelik,SİLİVRİ,AKÖREN,"Çanakça İstikametine doğru Giderken
+ Kestanelik Mahalle Çıkışında",Karacaköy Cad.,41.2380704554942,28.4953503210326
+Menfez,İzzettin-Kestanelik Yolu,ÇATALCA,KESTANELİK,Kestanelikden İzzettin İstikametinde Giderken 900 m. Sonra,Kestanelik Cad.,41.2216959019082,28.4974170391448
+Menfez,Nakkaş Mahallesi,ÇATALCA,NAKKAŞ,Baba Nakkaş Cad. Birleşiminde,Harmanlıklar Cad.,41.1889049910407,28.5522595935642
+Menfez,Örencik - Yazlık Yolu,ÇATALCA,DAĞYENİCE,Yazlık Giriş den Örencik İstikametine 650 m. Sonra,Kordon Sok.,41.2968353413919,28.507368792097
+Köprü (Dere),Yalıköy Mahallesi,ÇATALCA,YALIKÖY,Yalıköy Çıkışından Karacaköy İstikametine Doğru 300 m. Sonra,Prf. Dr. Tansut Çiller Cad.,41.47093388541,28.3020386154041
+Köprü (Dere),Akören - Bekirli Yolu,SİLİVRİ,AKÖREN,Akören Kabakca Yolundan Bekirli İhsaniye Yolu İstikametine 2+100 km. Sonra,Baba Küstü Cad.,41.2158161709033,28.3379034682297
+Köprü (Dere),Kabakça - Akören Yolu 2,SİLİVRİ,AKÖREN,Kabakca İstasyondan Akören İstikametine 600 m. Sonra,Hanice Cad.,41.2153158597397,28.3601319615112
+Köprü (Dere),Çayırdere Mahallesi,SİLİVRİ,ÇAYIRDERE,Şener Sok. Mevkii,Cennet Cad.,41.2789053092496,28.1513079301893
+Köprü (Dere),Fener - B.Sinekli Yolu 2,SİLİVRİ,BÜYÜK SİNEKLİ,Küçüksinekli Yönünden Fener İstikametine Ggiderken 750 m. Sonra,Akşemsettin Cad.,41.2096774899281,28.2145468139992
+Köprü (Dere),Sayalar Köprüsü,SİLİVRİ,SAYALAR,Çayırdere İstikametinden Sayalar Mahalle Girişi,Hacı Ömer Cad.,41.310689459451,28.1762741914448
+Köprü,Seymen-Yolçatı Yolu ,SİLİVRİ,YOLÇATI,Seymen-Yolçatı İstikameti E80 Yolu Üzeri,Mondros Cad.,41.1408939308042,28.1493764847464
+Köprü (Dere),Yolçatı Giriş,SİLİVRİ,YOLÇATI,Yolçatı Mahallesi Girişi,Bahar Cad.,41.132093105597,28.1302491568411
+Yaya Üst Geçidi,Muammer Alemdar Üst Geçidi,BÜYÜKÇEKMECE,KAMİLOBA,Işık Sitesi,D100 Karayolu,41.0345800938132,28.446889864675
+Yaya Üst Geçidi,Kamiloba Sudi Özkan Üst Geçidi,BÜYÜKÇEKMECE,KAMİLOBA,Marin Geçiti,D100 Karayolu,41.0383388953646,28.4342853155246
+Yaya Üst Geçidi,Bedaş Üst Geçidi,SİLİVRİ,ALİBEY,Altıntepe Sok.,D100 Karayolu,41.074903718892,28.2576063955042
+Yaya Üst Geçidi,Eski Sanayi Üst Geçidi,SİLİVRİ,PİRİ MEHMET PAŞA,Eski Sanayi Durağı,D100 Karayolu,41.0778560645041,28.2436180084471
+Yaya Üst Geçidi,Gümüşyaka Üst Geçidi,SİLİVRİ,GÜMÜŞYAKA,Gümüşyaka Camii Mevkii,D100 Karayolu,41.0464298975506,28.0426219870723
+Araç Üst Geçidi,50.Yıl Caddesi Araç Üst Geçidi,BAYRAMPAŞA,KARTALTEPE,50.Yıl Caddesi Üstü E 80 Bağlantı Yolu,50.Yıl Caddesi,41.0587372346468,28.8943532868205
+Araç Üst Geçidi,Tem - Atatürk Bulvarı Köprüsü,BAĞCILAR,MAHMUTBEY,TEM-Mahmutbey,TEM,41.0612923508266,28.811555030419
+Araç Alt Geçidi,Kanuni Sultan Süleyman Caddesi YSS Yolu Bağlantısı,BAŞAKŞEHİR,BAŞAK,Bilinmiyor,Kanuni Sultan Süleyman Caddesi,41.1037364167565,28.8142608441943
+Araç Alt Geçidi,Mahmutbey Batı Kavşağı Araç Alt Geçidi,KÜÇÜKÇEKMECE,MEHMET AKİF,Mahmutbey Batı Kavşağı Basın Ekspress Bağlantısı,Mahmutbey Batı Kavşağı,41.0599221602757,28.8101751006498
+Tünel,Çayırbaşı Tüneli,SARIYER,MADEN,3.Bölge Şantiye- Maden Yolu,3.Bölge Şantiye- Maden Yolu,41.1580315133585,29.0266231144522
+Araç Alt Geçidi,Reşat Nuri Güntekin Cad. Araç Alt Geçidi,BAŞAKŞEHİR,BAŞAK,Reşat Nuri Güntekin Cad,Reşat Nuri Güntekin Cad,41.1035489329019,28.8121630478912
+Araç Alt Geçidi,Güzelce Jandarma Önü Alt Geçit ,BÜYÜKÇEKMECE,Bahçelievler,Güzelce Jandarma önü,Aydınlar Cad.,41.0106208362794,28.5001465553777
+Köprü (Dere),Gökçeali - Subaşı Yolu,ÇATALCA,GÖKÇEALİ,Subaşı Kavşağından Gökçeali İstikametinde 1+100 km.,Gökçeali Cad.,41.2109675774967,28.4500955438603
+Yaya Üst Geçidi,Okmeydanı Metrobüs Yaya Üst Geçidi,KAĞITHANE,TALATPAŞA,Okmeydanı Metrobüs Üstü,O-1,41.0568674439329,28.9617637521768
+Araç Üst Geçidi,YSS Yolu İstoça Bağlantı Köprüsü,BAŞAKŞEHİR,BAŞAK,İstoç Bağlantı Köprüsü,O-6 Bağlantı Yolu,41.0752758839804,28.8155211197672
+Yaya Üst Geçidi,İmam Hatip Bulvarı Yaya Üst Geçidi,GAZİOSMANPAŞA,Bilinmiyor,Küçükköy İmam Hatip Önü,Imam Hatip Lisesi Bulvarı,41.0846299316479,28.9103894697311
+Araç Alt Geçidi,TEM Kuzey Yanyol Ispartakule Kavşaği 2,AVCILAR,TAHTAKALE,Işık Okulları Önü,O3 Kuzey Güney Yan Yol,41.0561139388377,28.7146311451962
+Köprü (Dere),Çatalca - Gökçeali Yolu 1,ÇATALCA,KALEİÇİ,İnceğiz Kavşağından Çatalca İstikametinde 0+150 km.,Gökçeali Cad.,41.1653743292504,28.4544420616696
+Araç Alt Geçidi,Başakşehir Mahmutbey Giriş Araç Alt Geçidi,BAĞCILAR,MAHMUTBEY,Başakşehir Mahmutbey yönü,O-3 Güney Yanyol,41.0606226346517,28.8149553567019
+Araç Alt Geçidi,Taşkışla Caddesi Araç Alt Geçidi,ŞİŞLİ,HARBİYE,Hilton Altı- Taşkışla cad,Taşkışla Caddesi,41.0468244548354,28.9909059637193
+Bilinmiyor,YSS Yolu Bağlantı Köprüsü S.Demirel Bulvarı ,BAŞAKŞEHİR,ZİYA GÖKALP,Bilinmiyor,O-6 Bağlantı Yolu,41.0670172397921,28.8137022379446
+Tünel,Piyalepaşa Kağıthae Tüneli,KAĞITHANE,Bilinmiyor,Piyalepaşa Kağıthae Tüneli,Piyalepaşa Kağıthae Tüneli,41.0633659452673,28.9547740441682
+Araç Üst Geçidi,Caprice Forum İstanbul Arası Üst Geçidi,BAYRAMPAŞA,KOCATEPE,Caprice Forum İstanbul Arası Metro Üstü Köprüsü,Paşa Cad.,41.0474930345334,28.8933360567045
+Araç Üst Geçidi,Otogar Bağlantı Yolu Köprüsü,BAYRAMPAŞA,YILDIRIM,Hal Kavşağı- Esenler Tekstilkent Girişi,Otogar Bağlantı Yolu,41.0562965032324,28.8859784100277
+Araç Alt Geçidi,Köprü Caddesi Araç Alt Geçidi,BAĞCILAR,MAHMUTBEY,Köprü Caddesi İstoç Giriş Yönü,Körpü Caddesi,41.0636657138416,28.8247382641842
+Araç Üst Geçidi,Sultangazi Giriş Köprüsü,SULTANGAZİ,CUMHURİYET,TEM-Eski Edirne Asfaltı Bağlantısı,Eski Edirne Asfaltı Caddesi,41.0816243544935,28.8743446527125
+Köprü,Zeytinburnu Tramway Körpüsü ,ZEYTİNBURNU,Bilinmiyor,E-5 Üstü,D 100,41.001535153595,28.885067624689
+Araç Alt Geçidi,Topkapı Kavşağı 1 ,ZEYTİNBURNU,Bilinmiyor,CEVİZLİBAĞ,Prof. Dr. Necmettin Erbakan Cad.,41.0187898865011,28.9228387264161
+Yaya Üst Geçidi,Okmeydanı Kavşağı Yaya Üst Geçidi 1,KAĞITHANE,Bilinmiyor,Okmeydanı Kavşağı,Okmeydanı Kavşağı,41.0554535363925,28.9594426110759
+Araç Alt Geçidi,Talatpaşa Caddesi Araç Alt Geçidi,BEŞİKTAŞ,ESENTEPE,Talatpaşa Caddesi,Talatpaşa Caddesi,41.0802891420138,29.0115694656387
+Araç Üst Geçidi,Bestekar Şevki Bey Sk. Araç Üst Geçidi,BEŞİKTAŞ,BALMUMCU,Bestekar Şevki Bey Sk. ,Bestekar Şevki Bey Sk. ,41.0573001672333,29.0171226104977
+Araç Üst Geçidi,Arnavutköy Giriş Köprüsü,ARNAVUTKÖY,MERKEZ,Hastane Yanı,Eski Edirne Asfaltı Caddesi,41.1759909696661,28.7476999936745
+Köprü,BAKIRKÖY ATAKÖY KONAKLARI ÖNÜ DERE ÜSTÜ KÖPRÜ,BAKIRKÖY,ATAKÖY 2-5-6. MAHALLE,Bilinmiyor,Rauf Orbay Cad.,40.9735031826792,28.8471884365768
+Yaya Üst Geçidi,Okmeydanı Kavşağı Yaya Üst Geçidi 2,KAĞITHANE,Bilinmiyor,Okmeydanı Kavşağı,Okmeydanı Kavşağı,41.0547778500482,28.9590692913722
+Araç Alt Geçidi,Saya Yokuşu  Alt Geçidi,EYÜP,KARADOLAP,Alibeyköy,Atatürk Bulvarı,41.0799586294113,28.9317051566199
+Yaya Alt Geçidi,Karadeniz Cad. Yaya Alt Geçidi 2,GAZİOSMANPAŞA,PAZARİÇİ,Karadeniz Caddesi Kesişim Pazar İçi,Şehnaz Caddesi,41.0612021375945,28.9350748113119
+Yaya Alt Geçidi,Karadeniz Cad.Yaya Alt Geçidi 1,GAZİOSMANPAŞA,PAZARİÇİ,Karadeniz Caddesi Kesişim Pazar İçi,Karadeniz Cad.,41.0606586892169,28.934015926708
+Köprü,Atışalanı 2,ESENLER,BİRLİK,0-3,0-3,41.0496078483339,28.8739605071662
+Araç Alt Geçidi,Tekstilkent Alt Geçidi,ESENLER,TURGUT REİS,Tekstilkent Arkası,İpekyolu Cad,41.063034726766,28.8680834011046
+Yaya Üst Geçidi,Tekstilkent Yaya Üst Geçidi,ESENLER,ORUÇREİS,Tekstilkent Arkası,Tekstilkent Arkası,41.0654012591999,28.8640511762083
+Köprü,Barbaros Köprü,BAĞCILAR,ORUÇREİS,TEM,Bilinmiyor,41.0667868142251,28.8563327357355
+Araç Alt Geçidi,Karaoğlan- Şehid Vedat Çağlar Kesişimi,ESENLER,BİRLİK,O3 Altı,O3,41.0512711564068,28.8710539233449
+Köprü,Kadife Kavşağı  1 Sağmalcılar Kavş.,BAYRAMPAŞA,YENİDOĞAN,O3 Üstü,O3,41.0387484570161,28.9156758994688
+Köprü,Altıntepsi Köprü (Kenar Cad.),BAYRAMPAŞA,İSMET PAŞA,O3 Üstü (Devlet Hastanesi Yanı),O3,41.0411785516322,28.9031738351826
+Araç Alt Geçidi,Haşim Alt Geçidi,FATİH,İSKENDERPAŞA,Saraçhane,Atatürk Bulvarı,41.014689372278,28.9543540898339
+Köprü,Unkapanı Köprüsü,FATİH,Bilinmiyor,Sahil Unkapanı,Sahil Unkapanı,41.0239007610513,28.9644543987905
+Köprü,Carrefuar Köprüsü,BAYRAMPAŞA,ALTINTEPSİ,Bilinmiyor,Çiftlik Cad.,41.0379451328379,28.8887931752309
+Yaya Üst Geçidi,Otogar Yaya Üst Geçidi ,ESENLER,YAVUZ SELİM,Otogar Önü,Otogar Yolu,41.0364454074981,28.8921066161606
+Araç Alt Geçidi,Otogar Önü E5 Dönüşü Alt Geçidi,ESENLER,YAVUZ SELİM,Otogar Önü,Otogar Yolu,41.0367002373514,28.8926129441314
+Araç Alt Geçidi,Topkapı KİPTAŞ Merkez Efendi Alt Geçidi,ZEYTİNBURNU,MERKEZEFENDİ,Anbarlar,Yeni Çiftlik Cad.,41.0107461077725,28.9072435339151
+Yaya Üst Geçidi,Bayrampaşa Yaya Üst Geçidi ,EYÜP,TOPÇULAR,O3 Üstü,O3,41.034775083666,28.9196780067678
+Araç Alt Geçidi,Maltepe Araç Alt Geçidi,EYÜP,TOPÇULAR,O3 Altı,Maltepe Cad.,41.0332460157717,28.9202331493001
+Kombine Geçit,Bayrampaşa Maltepe Metrobüs Üst Geçidi,ZEYTİNBURNU,MALTEPE,E5 Üstü,E5,41.0243288233332,28.9217779341218
+Yaya Üst Geçidi,Sebze Hali Yaya Üst Geçidi,BAYRAMPAŞA,KOCATEPE,Sebze Hali Önü,E80 bağlantı,41.0495228950327,28.8852384577138
+Araç Alt Geçidi,Ayvansaray Araç Alt Geçit 1,EYÜP,DEFTERDAR,E5 Yanyol,Bağlantı Yolu,41.0391393178032,28.9367239859062
+Yaya Üst Geçidi,Merter Metrobus Yaya Üst Geçidi,ZEYTİNBURNU,SEYİTNİZAM,Bilinmiyor,E5,41.0074035007472,28.8969680698768
+Yaya Üst Geçidi,Ayvansaray Metrobüs Yaya Üst Geçidi,EYÜP,DEFTERDAR,E5 Haliç,Otakçılar,41.0384009840338,28.9369757247207
+Köprü,Şehitlik Edirnekapı Köprü Kavşak,EYÜP,TOPÇULAR,E5 Üstü,Rami Kışla Cad.,41.0335920154106,28.9299059134441
+Araç Alt Geçidi,Kumlu Alt Geçidi,FATİH,ŞEHSUVAR BEY,Kumkapı Yanı Çıkışı,Kennedy Cad.,41.0031279447791,28.9667327658463
+Araç Alt Geçidi,Kennedy Cad. Aksakal Alt Geçidi,FATİH,KÜÇÜK AYASOFYA,Kennedy Cad. Sultan Ahmet Çıkışı,Aksakal Sokak,41.0024396124571,28.9736601705594
+Araç Alt Geçidi,Vezneciler Alt Geçidi,FATİH,BALABANAĞA,Vezneciler,Darulfünü Cad.,41.0106746077461,28.9625929099005
+Köprü,Davutpaşa Yaya Üst Geçidi,GÜNGÖREN,TOZKOPARAN,Davutpaşa,Eski Londra Asfaltı Cad.,41.0196110801235,28.9001656206554
+Yaya Üst Geçidi,Ülkükent Y.Ü.G,GÜNGÖREN,TOZKOPARAN,KoçkaÖönü,Metro Sok.,41.0156015458816,28.9001725551975
+Köprü,Merter Metro Köprüsü,GÜNGÖREN,ABDURRAHMAN NAFİZ GÜRMAN,E5 Üstü,E5,41.0067324087591,28.8959360997713
+Yaya Üst Geçidi,Türksan Metrobüs Yaya Üst Geçidi,AVCILAR,CİHANGİR,BP Yanı,D-100,40.9952239866434,28.70580503401
+Köprü,Avcılar Kavşağı,AVCILAR,ÜNİVERSİTE,Avcılar Meydan,D-100,40.985734536928,28.7223803157613
+Yaya Üst Geçidi,ÜnİversİteYurt Önü Yaya Üst Geçidi,AVCILAR,GÜMÜŞPALA,Kız Yurdu Önü,D-100,40.9817066115762,28.7290749049498
+Yaya Üst Geçidi,Şükrübey Yaya Üst Geçidi,AVCILAR,DENİZKÖŞKLER,NISSAN Servis Önü,D-100,40.9778896262729,28.7364851573859
+Araç Alt Geçidi,Ispartakule Bİzİmevler-4 Kavşağı,AVCILAR,TAHTAKALE,Ispartakule Bizim Evler,O3 Kuzey Güney Yan Yol,41.0595628000029,28.7099842567934
+Araç Alt Geçidi,Ispartakule Bİzİmevler-6 Alt Geçİt,AVCILAR,TAHTAKALE,İhlas Evleri,O3 Kuzey Yan Yol,41.0596485002542,28.7041823376815
+Yaya Üst Geçidi,Büyükçekmece Merkez TÜYAP,BÜYÜKÇEKMECE,FATİH,ATİRUS Yanı,D-100,41.0206649569085,28.5817065212273
+Yaya Üst Geçidi,S Rampası Çıkış,BÜYÜKÇEKMECE,FATİH,S Rampası,D-100,41.0242380371232,28.6022973232444
+Köprü,Hadımköy-MERCEDES Köprüsü,BÜYÜKÇEKMECE,ALKENT 2000,Hadımköy Gişe,Hadımköy-MERCEDES Köprüsü,41.0840065564805,28.6293327740731
+Köprü,Bahşayış Yolu Çıkış,ÇATALCA,BAHŞAYİŞ,Göl Üstü,Ahmediye-Bahşayış Cad.,41.1102589917698,28.5361686012492
+Köprü,Karaağaç Köyü Çıkış Köprüsü,BÜYÜKÇEKMECE,KARAAĞAÇ,TEM Üstü,Dostluk Cad.,41.1025496664159,28.5992563832086
+Araç Alt Geçidi,Hadımköy-Gürpınar Kavşağı,ESENYURT,GÖKEVLER,TÜYAP Önü,D-100,41.0209853707109,28.6288160232793
+Köprü,75. Yıl Köprüsü,BAHÇELİEVLER,YENİBOSNA MERKEZ,Basın Expres Üstü,75. Yıl Köprüsü,41.0094327170954,28.8130051776825
+Köprü,Ç.Çeşme Kavşağı-1,KÜÇÜKÇEKMECE,KARTALTEPE,Havaalanı Yanı,D-100,40.9935087716146,28.8187615884408
+Araç Alt Geçidi,Vali Recep Yazıcıoğlu,BAHÇELİEVLER,KOCASİNAN MERKEZ,İtfaiye Önü,Vali Recep Yazıcıoğlu,41.0146875135041,28.8404922418013
+Yaya Üst Geçidi,STARCITY Yaya Üst Geçidi,BAHÇELİEVLER,YENİBOSNA MERKEZ,STARCITY,STARCITY Yaya Üst Geçidi,41.0103175550507,28.8155268196829
+Yaya Üst Geçidi,Bahçelievler Devlet Hastanesi,BAHÇELİEVLER,ŞİRİNEVLER,Bahçelievler Devlet Hastanesi,Kerim Çavuş,41.0061314614223,28.8469688105726
+Köprü,0 No'lu Kavşak,BAŞAKŞEHİR,ZİYA GÖKALP,Mahmutbey Kavşağı,Atatük Bulvarı,41.0626209491586,28.8116578249122
+Köprü,İkitelli Organize San.Böl. Köprüsü,BAŞAKŞEHİR,ZİYA GÖKALP,Mahmutbey Kavşağı,Atatük Bulvarı,41.0654976899263,28.8107575341305
+Köprü (Dere),Haraççı-Çilingir Köprüsü,ARNAVUTKÖY,HARAÇÇI,Eski Edirne Cad.,Eski Edirne Caddesi,41.1838531302228,28.6968411128219
+Köprü (Dere),Işıklar Köyü Mezarlık Yanı,EYÜP,IŞIKLAR,Işıklar-İstanbul  Caddesi,Işıklar-İstanbul  Caddesi,41.232134809245,28.8148648595546
+Köprü (Dere),2.Kemer Çıkışı,EYÜP,MİMAR SİNAN,Eski Kemerburgaz Yolu,Eski Kemerburgaz Yolu,41.1469507194026,28.9238846714612
+Köprü (Dere),Belgrad-Karacaköy Yolu,ÇATALCA,KARACAKÖY MERKEZ,"Belgrad Mahalle Çıkışından
+ 1+500 km Sonra",Sultan Fatih Cad.,41.3941445563005,28.3844473732631
+Menfez,Çakıl Yolu-Ovayenice Arası 2,ÇATALCA,OVAYENİCE,"Ovayenice Tarafından Çakıl
+ Mmahallesine Giderken 
+1 km. Sonra",Çatalca Cad.,41.1050404550639,28.430334749533
+Köprü (Dere),Çiftlikköy Mahallesi,ÇATALCA,ÇİFTLİKKÖY,"Başakköy Yönünden Çiftlik
+ Mahallesine Girişte",Sultan Süleyman Cad.,41.3365619222977,28.417676910448
+Araç Alt Geçidi,Mustafa Erdoğan Geçidi,BAŞAKŞEHİR,ZİYA GÖKALP,"1,Etap",Mustafa Erdoğan Geçidi,41.0987412711429,28.7916930896502
+Köprü,Metrokent Köprüsü,BAŞAKŞEHİR,BAŞAK,Metrokent Önü,K.S.S. Bulvarı,41.1063221033309,28.8002546866216
+Yaya Üst Geçidi,MALL of İstanbul Yaya Üst Geçidi,BAŞAKŞEHİR,ZİYA GÖKALP,MALL OF Önü,Süleyman Demirel Bulvarı,41.0648557917435,28.8077754356048
+Köprü,MASKO TEM Köprüsü,BAŞAKŞEHİR,ZİYA GÖKALP,MASKO Önü,Hürriyet Bulvarı,41.0637888209605,28.7875603257451
+Köprü,Mahmutbey Yolu Batı Kavşağı,KÜÇÜKÇEKMECE,MEHMET AKİF,MALL OF,Mahmutbey Yolu Batı Kavşağı,41.0612176760643,28.8097305772604
+Yaya Üst Geçidi,D-100 AUTOPIA Yanı Metrobüs ,BÜYÜKÇEKMECE,CUMHURİYET,AUTOPIA Yanı,D-100,41.019217478235,28.6316264798895
+Köprü,Bizimkent Köprüsü,ESENYURT,BARBOROS HAYRETTİN PAŞA,MEDICANA Hast. Yanı,Atatük Bulvarı Kavşağı,41.0144714156633,28.6441837538173
+Yaya Üst Geçidi,Liman Yolu Yaya Üst Geçidi,BEYLİKDÜZÜ,YAKUPLU,Liman Yolu,Liman yolu,40.9950379439027,28.6784435748404
+Köprü,Osmangazİ Cad.Köprülü Kavşak,BEYLİKDÜZÜ,YAKUPLU,Liman Yolu,Liman yolu,40.9919812406422,28.6793189855699
+Köprü,Haramİdere Kavşağı,BEYLİKDÜZÜ,YAKUPLU,Haramidere,D-100,41.0058697153267,28.6778922309155
+Yaya Üst Geçidi,Cumhurİyet Mah. Metrobüs,ESENYURT,BARBOROS HAYRETTİN PAŞA,Kanatçı Muhtar,D-100,41.0156322562271,28.6410524325889
+Yaya Üst Geçidi,Doğan Araslı Depo Duraği Yaya Üst Geçidi,ESENYURT,ZAFER,Tay Sürücü Kursu,Doğan Araslı Bulvarı,41.0210246809573,28.6875823086706
+Yaya Üst Geçidi,Atek Lift Önü Yaya Üst Geçidi,ESENYURT,ÇAKMAKLI,Atek Lift Önü,Hadımköy Yolu Cad.,41.037954427763,28.6249443323017
+Köprü,Balik Yolu Cad. Köprüsü,ESENYURT,SULTANİYE,Haramidere-TEM Bağ. Üstü,Haramidere-TEM Bağ. Yolu,41.0334059510134,28.6869465277591
+Köprü,Haramİdere-TEM Bağ.Yolu Viyadüğü,ESENYURT,SÜLEYMANİYE,Bilal-i Habeşi Camii Yanı,Haramidere-TEM Bağ. Yolu,41.0403898213167,28.6895562318096
+Yaya Üst Geçidi,TUREX Yaya Üst Geçidi,ESENYURT,ZAFER,TUREX Yanı,Haramidere-TEM Bağ. Yolu,41.0215366781542,28.6806116835953
+Köprü,Su Yolu Cad.Köprüsü,ESENYURT,AKEVLER,Solarkent Yanı,Su Yolu,41.0170040137024,28.679244234238
+Köprü,Doğan Araslı  Ak Bari Kavşaği,ESENYURT,KOZA,Akbatı AVM,Hoşdere-Esenkent Yolu,41.054049386615,28.6702952595159
+Araç Alt Geçidi,Haramİdere-TEM Bağ.Yolu Alt Geçit,AVCILAR,YEŞİLKENT,Ardıçlı Göl Evleri,Haramidere-TEM Bağ. Yolu,41.0476026889873,28.6895837445339
+Yaya Üst Geçidi,Esenyurt Sağlık Ocağı,ESENYURT,YENİKENT,Esenyurt Sağlık Ocağı,Doğan Araslı Bulvarı,41.0397108683854,28.6775578184238
+Yaya Üst Geçidi,Hadımköy Gişe Yaya Üst Geçidi,ESENYURT,AKÇABURGAZ,Hadımköy Gişe,Kıraç-TEM Bağlantı Yolu,41.0832048433562,28.628508017435
+Köprü,Konut Birlik Köp.,KÜÇÜKÇEKMECE,ATAKENT,SHELL Petrol,Turgut Özal Bulvarı,41.0342676470049,28.7675470069386
+Köprü,Sefaköy Kavşağı,BAKIRKÖY,YEŞİLKÖY,AREL Üniversitesi,Sefaköy Kavşağı,40.9980096068535,28.7975851935759
+Yaya Üst Geçidi,Doğa Kolejı Yaya Üst Geçidi,KÜÇÜKÇEKMECE,ATAKENT,Meslek Lisesi,"4,Cadde",41.0529544081083,28.7747137561995
+Yaya Üst Geçidi,M.Akif Ersoy Yaya Üst Geçit-2,KÜÇÜKÇEKMECE,HALKALI MERKEZ,M.Akif Kavşağı,M.Akif Ersoy bulvarı,41.0295891456594,28.7928491410876
+Yaya Üst Geçidi,Hürriyet Cad Yaya Üst Geçidi,KÜÇÜKÇEKMECE,ATATÜRK,5.Etap Yanı,Hürriyet,41.0462688122732,28.8036952018713
+Köprü,Halkalı Gümrük Kav.,KÜÇÜKÇEKMECE,KANARYA,Gümrük,M.Akif Ersoy bulvarı,41.0118452081126,28.7714738383112
+Köprü,İstanbul Cad Dere Üstü 1,KÜÇÜKÇEKMECE,Bilinmiyor,KOSKA Önü,İstanbul Cad. Bağlantı Yolu,40.9871699995862,28.7724565101034
+Köprü,İstanbul Cad Dere Üstü 2,KÜÇÜKÇEKMECE,Bilinmiyor,KOSKA Yanı,İstanbul Cad Dere Üstü 2,40.9861945034025,28.7728015771511
+Köprü,Fatih Cad. Köp.,BAHÇELİEVLER,YENİBOSNA MERKEZ,Holiday INN Otel,Fatih,41.0277700273978,28.8089968689587
+Köprü,D-100 Yanyol Dere Köp-2,KÜÇÜKÇEKMECE,Bilinmiyor,İBB Mezarlıklar Müd.,D-100 Güney Yan Yol,40.9864986649117,28.7726941242663
+Yaya Üst Geçidi,İDO Yaya Üst Geçidi,BAKIRKÖY,CEVİZLİK,İDO,Kennedy Cad.,40.9743029613898,28.8763447934117
+Köprü,Rauf Orbay Cad. Tren Köprüsü,BAKIRKÖY,YEŞİLKÖY,Hava Harp Okulu,Rauf Orbay,40.9698111763555,28.8402283375623
+Köprü,Adnan Kahveci Tren Üst Köprü,BAKIRKÖY,ATAKÖY 2-5-6. KISIM,A PLUS,Adnan Kahveci,40.9798946507499,28.8505515393979
+Araç Alt Geçidi,Yusuf Alptekin Alt Geçidi,BAKIRKÖY,ZUHURATBABA,Hacı Bozan,D-100,40.9962926790328,28.8672062190759
+Köprü,Florya Kavşağı,BAKIRKÖY,ŞENLİKKÖY,Beşyol,Florya Kavşağı,40.9891749575922,28.7924309849069
+Köprü,Havaalanı Kavşağı,BAKIRKÖY,YEŞİLKÖY,Havalimanı,Atatürk Havalimanı Cad.,40.9837234198861,28.8220072674889
+Yaya Üst Geçidi,Marmara FORUM,BAKIRKÖY,OSMANİYE,Marmara FORUM,Marmara FORUM,41.0004065772644,28.8854403258604
+Yaya Üst Geçidi,Sinan Erdem,BAKIRKÖY,ATAKÖY 7-8-9-10. KISIM,Sinan Erdem Spor Salonu,Adnan Kahveci Bılvarı,40.9873273398665,28.8524934426779
+Yaya Üst Geçidi,Yeşilyurt,BAKIRKÖY,YEŞİLKÖY,Havuzlu Kavşak,Rauf Orbay,40.9651361036182,28.835862146036
+Yaya Üst Geçidi,CNR Yaya Üst Geçidi,BAKIRKÖY,YEŞİLKÖY,CNR,Havalimanı yolu,40.9849707325943,28.8262370401826
+Araç Alt Geçidi,İncirli Cad.Araç Alt Geçidi,BAKIRKÖY,KARTALTEPE,Ömür Plaza Yanı,İncirli Cad.Araç Alt Geçidi,40.9969981702314,28.8698706978684
+Köprü,Hürriyet Cad. 1 No'lu Kavşak,KÜÇÜKÇEKMECE,ATATÜRK,Atakent 1.Etap,Hürriyet,41.0507706336774,28.7941437447611
+Köprü,Koşuyolu Cad. Metro Köp.,BAKIRKÖY,OSMANİYE,Marmara FORUM,Koşu Yolu,41.0009064857452,28.8850952686385
+Köprü,GALERIA Kavşağı,BAKIRKÖY,ATAKÖY 2-5-6. KISIM,GALERIA,Rauf Orbay,40.9755309778295,28.8661928092082
+Araç Alt Geçidi,Kırserdarı Alt Geçidi,BAKIRKÖY,ŞENLİKKÖY,Yeşilköy Cad,Kırserdarı,40.9654378173997,28.8068599751955
+Araç Alt Geçidi,Yeşilköy-HAlkalı Cad.,BAKIRKÖY,YEŞİLKÖY,Çarşamba Pazarı,Yeşilköy-Halkalı,40.9632171927996,28.8174873175469
+Araç Alt Geçidi,Eski Havaalanı Cad .Tren Alt Geçidi,BAKIRKÖY,YEŞİLKÖY,Havacılık Müzesi,Eski Havaalanı Cad .Tren Alt Geçidi,40.9631283094306,28.8188585667741
+Yaya Üst Geçidi,Okmeydanı Hastanesi Önü Yaya Üst Geçidi,BEYOĞLU,KAPTANPAŞA,Piyalepaşa Bulvarı Okmeydanı Hastanesi Önü,Piyalepaşa Bulvarı,41.0634330033543,28.9757125308179
+Yaya Üst Geçidi,İSTAÇ Önü Yaya Üst Geçidi,BEYOĞLU,PAŞA,Piyalepaşa Bulvarı İSTAÇ önü,Piyalepaşa Bulvarı,41.0498893370586,28.9679626996453
+Araç Alt Geçidi,Talatpaşa Araç Alt Geçidi,BEYOĞLU,TALATPAŞA,Talatpaşa,Keskingil Cad.,41.0578878518881,28.9632524893086
+Araç Alt Geçidi,Halıcıoğlu E-5 Altı Araç Alt Geçidi,BEYOĞLU,SÜTLÜCE,Halıcıoğlu E-5 Altı,Halıcıoğlu Kavşağı,41.0481092915948,28.9456184775804
+Köprü,Cemal Kamacıdan Halıcıoğluna Giden Araç Üst Geçidi,BEYOĞLU,MEHMET AKİF ERSOY,Cemal Kamacıdan Halıcıoğluna Giden Üst Geçit,Etibank Cad.,41.0542272406732,28.9569858718758
+Viyadük,İSKİ Su ve Hurda Depoları Karşısı Araç Üst Geçidi,KAĞITHANE,GÜZELTEPE,İSKİ Su ve Hurda Depoları Karşısı,Nurtepe Viyadüğü,41.0781180564977,28.9590275035473
+Köprü,Keçi Deresi Genç Osman Bağlantı Köprü Araç Üst Geçidi,KAĞITHANE,TELSİZLER,Keçi Deresi Genç Osman Bağlantı,Genç Osman Köprülü Kavşağı,41.0810188391601,28.9973473003217
+Araç Alt Geçidi,İstinye Park Önü Araç Alt Geçidi,SARIYER,POLİGON,İstinye Park Önü İTÜ Bağlantısı,Katar Cad.,41.1108398461882,29.0355801204817
+Araç Alt Geçidi,Baltalimanı TEM Araç Alt Geçidi,BEŞİKTAŞ,ETİLER,Baltalimanı TEM Alt Geçit,Bağlantı Yolu,41.089264458418,29.0400784340276
+Köprü,Baltalimanı Etiler TEM Katılımı Araç Üst Geçidi,SARIYER,RUMELİ HİSARI,Baltalimanı Etiler TEM Katılımı,TEM-Etiler Bağl. Yolu,41.0897901299378,29.0450902294876
+Araç Alt Geçidi,Şişhane Köprüsü Araç Alt Geçidi,BEYOĞLU,BEDRETTİN,Şişhane Köprüsü Alt Geçit,Evliya Çelebi Cad.,41.0279322056077,28.9702155818955
+Yaya Üst Geçidi,Metrobüs Yaya Üst Geçidi,ŞİŞLİ,MERKEZ,Metrobüs Yaya Üst,O - 1 Otoyolu,41.0673971091775,28.9800421752638
+Köprü,Türk Telekom Arena Önü Araç Üst Geçidi,KAĞITHANE,HUZUR,Türk Telekom Arena Önündeki Üst Geçit,O-2,41.1017848588273,28.9924092223416
+Araç Alt Geçidi,Büyükdere Ayazağa Köy Yolu  Araç Alt Geçidi,ŞİŞLİ,HUZUR,Büyükdere Ayazağa Köy Yolu,Ayazağa Köprülü Kavşağı,41.1071729687023,29.0138793072159
+Kombine Geçit,Büyükdere Caddesi Gültepe Girişi Kombine Geçit,BEŞİKTAŞ,NİSBETİYE,Büyükdere Caddesi Gültepe Girişi,Barbaros Bulvarı,41.0698248778844,29.0148928710568
+Araç Alt Geçidi,Akmerkez Levazım Yolu Kuzey Güney Yol Bağlantısı Araç Alt Geçidi,BEŞİKTAŞ,NİSBETİYE,Akmerkez Levazım Yolu Kuzey Güney Yol Bağlantısı,Akmerkez Levazım Yolu,41.0680235013247,29.0136070758095
+Araç Alt Geçidi,Dolmabahçe Tünel Çıkışı Araç Alt Geçidi,BEŞİKTAŞ,VİŞNEZADE,Dolmabahçe Tünel Çıkışı,Dolmabahçe Gazhane Cad.,41.0417723229236,28.9931144468742
+Köprü,2. Köprü İstikameti Levent Sarıyer Araç Üst Geçidi,ŞİŞLİ,HUZUR,2. Köprü İstikameti Levent Sarıyer Beşiktaş Sapağına Gelmeden Üst Geçit,O-2,41.1013057082463,29.0014904194775
+Yaya Alt Geçidi,Necati Bey Girişi Yaya Alt Geçidi,BEYOĞLU,ARAP CAMİ,Necati Bey Girişi,Tersane Cad.,41.0229063261061,28.9746031832968
+Araç Alt Geçidi,Çağlayan Kavşağı Piyale Paşa Bulvarı Araç Alt Geçidi,ŞİŞLİ,KAPTANPAŞA,Çağlayan Kavşağı Piyale Paşa Bulvarı Üstü Kuzey Güney Yanyol,O - 1 Otoyolu,41.0674535128543,28.9784190091992
+Köprü,Kuzey Güney Yol zincirlikuyu Araç Üst Geçidi,ŞİŞLİ,BALMUMCU,Kuzey Güney Yol zincirlikuyu Üst Geçit Köprüsü,Barbaros Bulvarı Kavşağı,41.0653522909958,29.0142561859326
+Köprü,Kuzey Güney Yol Ali Sami Yen Araç Üst Geçidi,ŞİŞLİ,MECİDİYEKÖY,Kuzey Güney Yol Ali Sami Yen Karşısı,O - 1 Otoyolu,41.0665853796006,28.9992000254468
+Araç Alt Geçidi,Barbaros Bulvarı Araç Alt Geçidi,BEŞİKTAŞ,ESENTEPE,Barbaros Bulvarı,Balmumcu Kavşağı,41.063641902438,29.0120353767515
+Araç Alt Geçidi,Akmerkez Levazım Yolu Araç Alt Geçidi,BEŞİKTAŞ,NİSBETİYE,Ahmet Adnan Saygun Cad. Akmerkez Katılımı,Akmerkez Levazım Yolu,41.0749046854263,29.0267941627086
+Köprü,Kemerburgaz Cad. Sadabat Araç Üst Geçidi,KAĞITHANE,HAMİDİYE,Kemerburgaz Cad. Sadabat Üst Geçit İSKİ BEDAŞ  Tesisleri Arası,Kemerburgaz Cad.,41.0948561343641,28.9632418825701
+Araç Alt Geçidi,Hacı Osman Kavşağı Araç Alt Geçidi,SARIYER,ÇAMLITEPE,Hacı Osman Kavşağı,Büyükdere Cad.,41.1395800610743,29.0274451840664
+Araç Alt Geçidi,Ayazağa Köy Yolu Büyükdere İstikameti Araç Alt Geçidi,SARIYER,HUZUR,Ayazağa Köy Yolu Büyükdere İstikameti,Maslak Ayazağa Köy Yolu,41.1076799347135,29.0135587877927
+Köprü,Levent Sarıyer Zincirlikuyu Bağlantısı 1. Üst Geçidi,BEŞİKTAŞ,ESENTEPE,Levent Sarıyer Zincirlikuyu Bağlantısı 1. Üst Geçit,Barbaros Bulvarı Kavşağı,41.0651218006438,29.0125295307365
+Araç Alt Geçidi,2. Köprü Maslak Sarıyer Bağlantısı Araç Alt Geçidi,ŞİŞLİ,ESENTEPE,2. Köprü Maslak Sarıyer Bağlantı Araç Alt Geçidi,Fatih Cad.,41.098575301054,29.0069534048691
+Yaya Üst Geçidi,Barbaros Bulvarı Sait Çiftçi Döner Kavşağından 1. Köprü Girişi Yaya Üst Geçidi,BEŞİKTAŞ,YILDIZ,Barbaros Bulvarı Sait Çiftçi Döner Kavşağından 1. Köprü Girişi,D-100 Bağlantı Yolu,41.0531563894567,29.0095007521257
+Yaya Üst Geçidi,Mahmutbey Cad. Yaya Üst Geçidi,SULTANGAZİ,ASKERİ BÖLGE ESENLER,Mahmutbey Cad.,Mahmetbey Cad.,41.1090728226255,28.8492530279614
+Yaya Üst Geçidi,Cumhuriyet Tramvay Durağı Yaya Üst Geçidi,SULTANGAZİ,CUMHURİYET,Cumhuriyet Tramvay Durağı,Eski Edirne Asfaltı,41.0841424084344,28.8719984878996
+Yaya Üst Geçidi,Mevlana Cad. Yaya Üst Geçidi,SULTANGAZİ,CUMHURİYET,Mevlana Cad. SANKO,Mevlana Cad.,41.0896422119097,28.8783303435171
+Yaya Üst Geçidi,Kuşaklama Yolu Yaya Üst Geçidi,SULTANGAZİ,CEBECİ,Kuşaklama Yolu,Selçuklu bulvarı,41.1205060385209,28.8478115281828
+Araç Alt Geçidi,Merkez Camii Durağı Araç Alt Geçidi,SULTANGAZİ,İSMETPAŞA,Merkez Camii Durağı,Mahmutbey Cad.,41.1041859807555,28.8606966421038
+Araç Alt Geçidi,Mustafa Gürbüz,GAZİOSMANPAŞA,KARAYOLLARI,Küçükköy İmam Hatip,Hekimsuyu Cad.,41.0851162891234,28.90832273788
+Köprü,Habipler Girişi,SULTANGAZİ,ESENLER ASKERİ BÖLGE,Habipler Girişi,Arnavutköy Habipler Yolu,41.1352303837484,28.823853454492
+Köprü (Dere),Abdullah Gül Köprüsü,ARNAVUTKÖY,HİCRET,Abdullah Gül Caddesi,Abdullah Gül,41.2106397162026,28.7549569614863
+Köprü (Dere),Hadımköy Girişi,ARNAVUTKÖY,HADIMKÖY,Haraççı-Hadımköy Yolu,Haraççı-Hadımköy Yolu,41.1572600314928,28.626777305355
+Menfez,Çatalca-Çakıl Yolu,ÇATALCA,ÇAKIL,"Çakıl'dan Çatalca'ya Giderken
+yol  Ayrımından 400 m. Sonra",Çatalca Cad.,41.1167632504738,28.455635624282
+Viyadük,İzzettin-Çatalca Yolu,ÇATALCA,FERHATPAŞA,İzzettin Tren İstasyonu Mevki,İstasyon Cad.,41.1521912464714,28.4776992249936
+Köprü (Dere),Ormanlı - Hisarbeylı Sapağı,ÇATALCA,Bilinmiyor,Ormanlı Döner Kavşağı Mevkii,Karacaköy Cad.,41.3777852364694,28.4607384346045
+Köprü (Dere),Ormanlı Köprüsü 2,ÇATALCA,ORMANLI,Ormanlı'dan Hisarbeyli İstikametine  Giderken 800 m. Sonra,Karacaköy Cad.,41.38445038421,28.4570908107464
+Köprü (Dere),Ormanlı Köprüsü 5,ÇATALCA,HİSARBEYLİ,"Ormanlı'dan Hisarbeyli İstikametine
+ Giderken 1+150 km . Sonra",Karacaköy Cad.,41.381357781349,28.4569685129646
+Köprü (Dere),Bekirli - İhsaniye Yolu 3,ÇATALCA,İHSANİYE,"İhsaniye'den Bekirli
+ İstikametine Giderken 3+800 km
+. Sonra",Bekirli Cad.,41.2452875848313,28.3199429354483
+Köprü (Dere),İnceğiz - Kabakça Yolu 1,ÇATALCA,İNCEĞİZ,"İnceğiz'den Kabakça İstikametine 
+Giderken 950 m. Sonra",Hanice Cad.,41.1951991740321,28.3955881263382
+Menfez,İnceğiz Mahalle Girişi,ÇATALCA,İNCEĞİZ,İnceğiz Mahallesi Girişi,İnceğiz Cad.,41.1876076270208,28.4059483186851
+Köprü (Dere),Kabakça - İhsaniye Yolu ,ÇATALCA,İHSANİYE,"İhsaniye'den Kabakça 
+İstikametine Giderken 750 m. Sonra",Cemal Ogan Cad.,41.2512305923902,28.3676808861014
+Menfez,Akalan-Kalfaköy Yolu,ÇATALCA,KALFA,Akalan-Kalfa Yolu Üzeri Ocak Yolu Mevkii,Başakköy Cad.,41.2725877357804,28.4352252644741
+Köprü (Dere),Kalfaköy-Başakköy Yolu 2,ÇATALCA,KALFA,Kalfa'dan Başakköy İstikmaetine Giderken Mahalle Çkışından 2+000 km. Sonra,Osmanlı Cad.,41.3055358511132,28.4395450924618
+Köprü (Dere),Karamandere-Karacaköy Yolu 2,ÇATALCA,KARACAKÖY MERKEZ,"Karacaköy'den Karamandere
+ İstikametine Giderken 750 m. Sonra",Karaca Ahmet Paşa Cad.,41.3986902387342,28.3529350969919
+Menfez,Karamandere Mahallesi 1,ÇATALCA,KARAMANDERE,Karamandere Mahallesi Girişi,Müstesna Sok.,41.3783913560449,28.2971093005251
+Köprü (Dere),Muratbey Mahallesi (Gelen),ÇATALCA,MURATBEY MERKEZ,Çatalca İstanbul Yolu Başlangıcından 1+100 km. Muratbey İstikametinde ,Güney Giriş Cad.,41.0906205121994,28.5034881163431
+Köprü (Dere),Muratbey Mahallesi (Giden),ÇATALCA,MURATBEY MERKEZ,Çatalca İstanbul Yolu Başlangıcından 1+100 km. Muratbey İstikametinde ,Güney Giriş Cad.,41.0904454003779,28.5034789848724
+Menfez,Nakkaş-Yeşilbayır Yolu,ÇATALCA,NAKKAŞ,Nakkaş içiden Yeşilbayır İstikametine Giderken 1+400 km. Sonra,Başkomutan Cad.,41.1769363424696,28.5634377185265
+Köprü (Dere),Karacaköy - Ormanlı Yolu 1,ÇATALCA,ORMANLI,Karacaköy Çıkışından Ormanlı İsikametinde 1+500 km. Sonra,Karacaköy Cad.,41.3975162668167,28.4203355412004
+Köprü (Dere),Karacaköy - Ormanlı Yolu 2,ÇATALCA,ORMANLI,Karacaköy Çıkışından Ormanlı İsikametinde 3+000 km. Sonra,Karacaköy Cad.,41.3967143507388,28.4259935273054
+Menfez,Ormanlı Mahallesi 1,ÇATALCA,ORMANLI,Ormanlı Sanayi Sites Mevkii,Sanayi Sok.,41.3915601872347,28.4502664158027
+Köprü (Dere),Ovayenice Giriş 2,ÇATALCA,OVAYENİCE,Ovayenice Mah.Selimpaşa İstikametinde Giriş,Semazen Cad.,41.0988578245228,28.4146719022171
+Köprü,Ovayenice-Selimpaşa Yolu,SİLİVRİ,SELİMPAŞA,Selimpaşa Ovayenice Yolunun TEM Üst Geçişi Köprüsü,Ovayenice Cad.,41.071694226555,28.3809990783411
+Menfez,Örencik Mahallesi,ÇATALCA,ÖRENCİK,Örencik Muhtarlığından Celepköy İstikametinde 400 m. Sonra,Şehit Mustafa Altınan Cad.,41.3320280322027,28.483786604706
+Menfez,Bekirli - Akören Yolu,SİLİVRİ,AKÖREN,Bekirli Akören Yolu Hemzemin Geçit Mevkii,Sultan Çeşme Cad.,41.2065298403353,28.3130500365334
+Köprü,Akören Çevre Yolu,SİLİVRİ,YENİ,Silivri TEM Bağlantı Yolundan Akören İstikametine 1 km. Sonra,Akören Cad.,41.1134267960581,28.2614220087286
+Köprü,Gazitepe-Silivri Yolu,SİLİVRİ,YENİ,Gazitepe Silivri Yolunun TEM Üst Geçiş Köprüsü,Valibey Cad.,41.1063524476079,28.2913467462006
+Menfez,Beyciler - Cevre Yolu  Arası,SİLİVRİ,BEYCİLER,Beyciler Çerkezköy Dönüşünden Çevreyolu İstikametinde 200 m. Sonra,İstasyon Cad.,41.2286379353348,28.1133414771455
+Menfez,Beyciler Mahallesi 1,SİLİVRİ,BEYCİLER,Beyciler Mahallesi Sinekli Yolu Girişinde,İstasyon Cad.,41.2309772943011,28.1192117312571
+Menfez,Beyciler Mahallesi 2,SİLİVRİ,BEYCİLER,Beyciler Mahallesi Sinekli Yolu Girişinde,İstasyon Cad.,41.2308610488959,28.1185233476519
+Menfez,Çayırdere-Hallaçlı Yolu 1,SİLİVRİ,ÇAYIRDERE,"Çayıdere Yönünden Hallaçlı İstikametine
+ Giderken Mahalle Çıkışından 400 m. Sonra",Milli Şair Cad.,41.2849174030523,28.1396832018917
+Köprü (Dere),Fener - B.Sinekli Yolu 1,SİLİVRİ,DEVLET ORMANI,Kurfallı Yol  Ayrımından 2+800 km. Sonra,Akşemsettin Cad.,41.189393671983,28.2251130989527
+Köprü (Dere),Değirmenköy-B.Çavuşlu Yolu 4,SİLİVRİ,İSMETPAŞA,Tavukçu Yolu Mevkii,Gölet Cad.,41.1243835690938,28.0222955016779
+Köprü,Selimpaşa-Ortaköy Yolu,SİLİVRİ,ORTAKÖY,Kalemdar Sok. Tem Yolu Kesişimi,Ortaköy Cad.,41.0793915928979,28.3724809928816
+Köprü (Dere),B.Kılıçlı-Seymen Yolu,SİLİVRİ,SEYMEN,"Seymen Yönünden Kılıçlı İstikametine
+ Ggiderken 1+250 km. Sonra",Sosyal Sok.,41.1478674027677,28.1801623964464
+Yaya Üst Geçidi,Aymerkez Üst Geçidi,BÜYÜKÇEKMECE,MURAT ÇESME,Aymerkez Alışveriş Merkezi Önü,D100 Karayolu,41.0140657522902,28.5452473285966
+Yaya Üst Geçidi,Turan Kocali Üst Geçidi,BÜYÜKÇEKMECE,EKİNOBA,Ekinoba Otobüs Durakları,D100 Karayolu,41.0120801244352,28.5365880670538
+Yaya Üst Geçidi,Yenimahalle Üst Geçidi,BÜYÜKÇEKMECE,YENİMAHALLE,Aydınlar Cad.,D100 Karayolu,41.0221420848266,28.4746213146722
+Yaya Üst Geçidi,Kumburgaz Üst Geçidi,BÜYÜKÇEKMECE,KUMBURGAZ,M.Erçağ Lisesi,D100 Karayolu,41.0314236922454,28.4539999533541
+Yaya Üst Geçidi,Kamiloba Durağı Üst Geçidi,BÜYÜKÇEKMECE,KAMİLOBA,Mustafa Kemal Atatürk Cad.,D100 Karayolu,41.0405152658103,28.4261392218392
+Yaya Üst Geçidi,Selimpaşa Üst Geçidi,SİLİVRİ,SELİMPAŞA,Mehmet Akif Ersoy Cad.,D100 Karayolu,41.0564489317963,28.3682007374348
+Yaya Üst Geçidi,Parkköy Üst Geçidi,SİLİVRİ,CUMHURİYET,Gazi Cad.,D100 Karayolu,41.0713378059706,28.2775470411722
+Araç Alt Geçidi,Türkoba-Güzelce Yolu,BÜYÜKÇEKMECE,GÜZELCE,D100 Karayolu-Türkoba Cad. Birleşim Yeri,Geçit Cad.,41.0077405988028,28.5170377162609
+Araç Alt Geçidi,Silivri Cezaevi-K.Kılıçlı Yolu,SİLİVRİ,ALİPAŞA,Harmanpınar Cad. Kesişimi,Harmanpınar Cad. Kesişimi,41.1119287146633,28.1676527847104
+Araç Alt Geçidi,Çakıl-Kamiloba Yolu,BÜYÜKÇEKMECE,KAMİLOBA,Tem Yolu Birleşimi,Çamlı Cad.,41.0519069805576,28.4340883885822
+Araç Alt Geçidi,Celaliye-Ovayenice Yolu,BÜYÜKÇEKMECE,CELALİYE,Balsu Cad. Mevkii,Bağlarbaşı Cad.,41.0583487513674,28.4147193559879
+Araç Alt Geçidi,Cumhuriyet Caddesi Tüneli,BEYOĞLU,GÜMÜŞSUYU,Gezi Parkı önü,Cumhuriyet Caddesi,41.0405334894114,28.9864448384832
+Araç Üst Geçidi,Hal Kavşağı Araç Üst Geçidi,BAYRAMPAŞA,KOCATEPE,Otogra Bağlantı Yolu,Hal Kavşağı,41.054733382117,28.8894347441298
+Araç Alt Geçidi,Cumhuriyet Caddesi İSKİ Önü Araç Alt Geçidi,BAĞCILAR,GÜNEŞLİ,Güneşli Kirazlı Yönü,Hoca Ahmet Yesevi Cad.,41.031089706569,28.8336785689368
+Menfez,Örencik - Dağyenice Yolu 2,ÇATALCA,ÖRENCİK,Örencik Halısaha ile Örencik mah. Arası,Örencik Cad.,41.3229008070806,28.4754455174093
+Araç Üst Geçidi,Medipol Mega Önü Araç Üst Geçidi 1,BAĞCILAR,GÖZTEPE,Medipol Mega Önü,Bilinmiyor,41.0575893921304,28.845156946831
+Araç Üst Geçidi,Ulaştırma Kavşağı Araç Üst Geçidi,BAYRAMPAŞA,YILDIRIM,Ulaştırma Kavşağı Bayrampaşa Girişi,Ulaştırma Kavşağı,41.0673838299262,28.8810949430475
+Araç Üst Geçidi,Turgut Özal Bulvarı Araç Üst Geçidi,KÜÇÜKÇEKMECE,ATAKENT,Turgut Özal Bulvarı- Yarımburgaz Cad.,Turgut Özal Bulvarı,41.0338636191065,28.769048332845
+Viyadük,O-3 Otogar Viyadüğü,BAYRAMPAŞA,YENİDOĞAN,O3 (vatan Bağ.Yolu E5),O-3,41.0442920593497,28.8933017353506
+Araç Alt Geçidi,O-6 Bağlantı Yolu İstoç Girişi Araç Alt Geçidi,BAĞCILAR,MAHMUTBEY,O-6 Bağlantı Yolu İstoç Girişi,O-6 Bağlantı Yolu,41.070284228522,28.8247046084513
+Köprü (Dere),B.Kılıçlı-Fener Yolu,SİLİVRİ,B.KILIÇLI,B.Kılıçlı yönünden Fener istikametine 1+200 km  sonra,Mustafa Kemal Cad.,41.1564731738194,28.1992464425625
+Araç Alt Geçidi,TEM Metris Kavşağı Alt Geçidi,SULTANGAZİ,CUMHURİYET,TEM Otogar Bağlantı Yolu Alt Geçidi,Otogar Bağlantı Yolu,41.0785770448428,28.8722684465991
+Araç Üst Geçidi,İSTOÇ Yanı Araç Üst Geçidi,BAĞCILAR,MAHMUTBEY,İstoçtan Mahmutbey Giriş Alt ,O-3 Kuzey Yanyol,41.0625193275071,28.815436351035
+Viyadük,Sadabad Kağıthane Girişi 1.Köprü,KAĞITHANE,MEHMET AKİF ERSOY,Sadabad Kağıthane Girişi 1.Köprü,Dersaadet Cad.,41.0643806227464,28.9576033103383
+Araç Alt Geçidi,Prof. Dr. Turan Güneş Cad. Araç Alt Geçidi,ZEYTİNBURNU,SÜMER,Veli Efendi Arkası Sahil Yönü,Prof. Dr. Turan Güneş Cad.,40.9823943722332,28.893204410703
+Araç Üst Geçidi,4.Cadde - 219 sk Ara Köprüsü,KÜÇÜKÇEKMECE,ATAKENT,Bilinmiyor,Bilinmiyor,41.0369602143692,28.7693528752905
+Tünel,Bomonti Dolmabahçe Tüneli,ŞİŞLİ,Bilinmiyor,Dolmabahçe Bomonti Tüneli- Stad Çıkışı,Dolmabahçe Bomonti Tüneli- Stad Çıkışı,41.0526700255696,28.9812469153657
+Yaya Üst Geçidi,Kennedy Caddesi Yaya Üst Geçidi 2,ZEYTİNBURNU,YEDİKULE,Yat Limanı Yanı,Kennedy Cad.,40.9915247050498,28.9265725545194
+Araç Alt Geçidi,Barbaros Levent Zincirlikuyu Bağlantısı 2.Köprü,ŞİŞLİ,ESENTEPE,Barbaros Levent Zincirlikuyu Bağlantısı 2.Köprü,Balmumcu Kavşağı,41.0651580086693,29.0123202197127
+Araç Alt Geçidi,Şehit Mustafa Yeşil Araç Alt Geçidi,GAZİOSMANPAŞA,HÜRRİYET,Cengiz Topel Caddesi Eski Edirne Asfaltı Kesişimi,Cengiz Topel Caddesi,41.0611013134854,28.902418668626
+Araç Alt Geçidi,Aksu Cad. Araç Alt Geçidi,ZEYTİNBURNU,OSMANİYE,Veli Efendi Arkası Sahil Yönü,Aksu Cad.,40.9823682967771,28.884598231701
+Araç Üst Geçidi,Kumcular Araç Üst Geçidi,ZEYTİNBURNU,KAZLIÇEŞME,Kumcular,Kennedy Cad.,40.9810922009803,28.8905168716256
+Yaya Üst Geçidi,Eski Balık Hali Araç Üst Geçidi,FATİH,AKSARAY,Eski Balık Hali ,Kennedy Cad.,41.0028255174104,28.9644028426299
+Araç Üst Geçidi,Yedikule Bucakbaşı Araç Üst Geçidi,ZEYTİNBURNU,YEDİKULE,Bilinmiyor,Yedikule Bucakbaşı Sk.,40.991736614574,28.9230691999248
+Araç Üst Geçidi,TEM Metris Kavşağı 2 Araç Üst Geçidi,ESENLER,ORUÇREİS,TEM Mahmutbey Gelişi Metris Girişi ,Metris Kavşağı,41.0777101970081,28.8731363513499
+Yaya Üst Geçidi,Arnavutköy Duble Yol Yaya Üst Geçidi,ARNAVUTKÖY,Bilinmiyor,Yol Bakım Onarım Müd.4.Bölge Önü,Eski Edirne Asfaltı,41.1710960852622,28.7589256390996
+Yaya Üst Geçidi,Kennedy Caddesi Yaya Üst Geçidi 3,ZEYTİNBURNU,YEDİKULE,Narlıkapı Caddesi Yanı,Kennedy Cad.,40.998584422718,28.9332911548039
+Araç Üst Geçidi,Kanuni Sultan Süleyman Cad. Araç Üst Geçidi,BAŞAKŞEHİR,BAŞAK,4.Etap Arkası YSS Bağlantı Yolu,Kanuni Sultan Süleyman Cad.,41.1035889147959,28.8124304362115
+Araç Üst Geçidi,Bahçeşehir Altınşehir Yolu TEM Bağlantı Köprüsü 1,AVCILAR,TAHTAKALE,Bahçeşehir-Altınşehir Yolu TEM Bağlantısı Mahmutbey Yönü,Bahçeşehir-Altınşehir Yolu,41.0567497465498,28.7109537814612
+Araç Üst Geçidi,Hal Bağlantı Yolu Araç Üst Geçidi,BAYRAMPAŞA,KOCATEPE,Hal Bağlantı Yolu Caprice Yönü,Hal Bağlantı Yolu,41.0462598804063,28.8914198666264
+Yaya Üst Geçidi,Halkalı Güneşli Kavşağı Yaya Üst Geçidi,BAĞCILAR,15 Temmuz,Halkalı Güneşli Kavşağı Üstü Bağcılar Yönü,Halkalı Güneşli Kavşağı,41.0269135951501,28.8122503996893
+Araç Üst Geçidi,TEM- Mahmutbey O-3 Güney Yanyol Bağlantı Köprüsü,BAĞCILAR,MAHMUTBEY,TEM- Mahmutbey O-3 Güney Yanyol Bağlantısı,O-3 Güney Yanyol,41.0637233894129,28.8272127300825
+Araç Alt Geçidi,Otogar Bağlantı Yolu Araç Alt Geçidi,BAYRAMPAŞA,YILDIRIM,Otogar Bağlantı Yolu- Otogar Giriş Yolu,Otogar Bağlantı Yolu,41.0594080247334,28.8857220364747
+Araç Üst Geçidi,Yenikapı Araç Üst Geçidi,FATİH,AKSARAY,Yenikapı,Kennedy Cad.,41.0036640745032,28.9570380032743
+Viyadük,TEM Tahtakale Viyadüğü,AVCILAR,TAHTAKALE,Tahtakale Altınşehir arası,TEM,41.0621575950583,28.7444805245995
+Viyadük,Sliahtarağa Sadabad Bağlantısı,KAĞITHANE,MEHMET AKİF ERSOY,Sliahtarağa Sadabad Bağlantısı,Dersaadet Cad.,41.0594306117179,28.9570169534192
+Bilinmiyor,Bilinmiyor,BAYRAMPAŞA,Bilinmiyor,Bilinmiyor,Bilinmiyor,41.0483661743602,28.8985455478767
+Araç Üst Geçidi,Gazi Mustafa Kemalpaşa Cad. Araç Üst Geçidi,FATİH,AKSARAY,Yenikapı Metro Önü,Gazi Mustafa Kemalpaşa Cad.,41.0050595900504,28.953549363358
+Bilinmiyor,Mahmutbey Batı Kavşağı Atatürk Bulvarı Köprüsü,BAŞAKŞEHİR,ZİYA GÖKALP,Bilinmiyor,Mahmutbey Batı Kavşağı,41.0631385869404,28.8120706389865
+Araç Üst Geçidi,Mahmutbey Batı Girişi,KÜÇÜKÇEKMECE,MEHMET AKİF,Mahmutbey Girişi,Mahmutbey Batı Girişi,41.0595973953563,28.8111816633421
+Araç Üst Geçidi,BAYRAMPAŞA - Askeriye Yolu Giriş Köprüsü,BAYRAMPAŞA,CEVATPAŞA,BAYRAMPAŞA Kışla Atışalanı Cad. Askeriye Yolu Kesişimi,Askeriye Yolu,41.0710036115346,28.8784951962597
+Köprü,Bilgi Üniversitesi Yanı Köprü,EYÜP,EMNİYETTEPE,Bilgi Üniversitesi Mevki,Kazım Karabekir Cad.,41.0646007241254,28.9482248454157
+Araç Üst Geçidi,Harp Akademileri Önü Büyükdere Caddesi Bağlantı Köprüsü,SARIYER,HUZUR,Harp Akademileri Önü Büyükdere Caddesi Bağlantı Köprüsü,Büyükdere Caddesi,41.0994057212484,29.0077890603493
+Araç Alt Geçidi,Topkapı Kavşağı 5,ZEYTİNBURNU,Bilinmiyor,CEVİZLİBAĞ,10.Yıl Cad.,41.0219360868833,28.9256041527431
+Araç Alt Geçidi,İstinye Park Araç Alt Geçidi,SARIYER,PINAR,İstinye Park Önü,Katar Caddesi,41.1088559723688,29.0295887180925
+Araç Üst Geçidi,Harp Akademileri Önü Dönüş Köprüsü,SARIYER,HUZUR,Harp Akademileri Önü TEM Üstü,Harp Akademileri Önü,41.099803586653,29.0066839194078
+Araç Alt Geçidi,Dereyolu Köprüsü,KAĞITHANE,TALATPAŞA,Darülaceze Caddesi Aslangazi Caddesi Bağlantısı,Bilinmiyor,41.0633773626313,28.9685628341988
+Araç Üst Geçidi,E-5 Büyükdere Caddesi Bağlantı Köprüsü,ŞİŞLİ,ESENTEPE,E-5 Mecidiyeköy Büyükdere Caddesi Girişi,O - 1 Yanyolu,41.0673774366181,29.0047468861744
+Araç Üst Geçidi,Yeni Havalimanı Caddesi Araç Üst Geçidi,BAKIRKÖY,YEŞİLKÖY,Havlimanı Yeşilöy Bağlantısı,Yeni Havaalanı Cad.,40.9824434410527,28.8379785493565
+Araç Üst Geçidi,AXIS İstanbul Bağlantı Köprüsü,BAYRAMPAŞA,TOPÇULAR,O-3 Bayrampaşa Üst Geçidi,Osmangazi Cad.,41.0376807045005,28.9182705312447
+Araç Üst Geçidi,Havaalanı Yolu ,BAKIRKÖY,YEŞİLKÖY,Havalimanı Caddesi Üstü,Havalimanı İç Yol,40.9868966897327,28.8191197134656
+Araç Alt Geçidi,Şehitlik Edirnekapı Araç Alt Geçidi,EYÜP,TOPÇULAR,E5 Yanyol,Rami Kışla Cad.,41.0339768394119,28.9294307645743
+Viyadük,Gazisomanpaşa Giriş Viyadüğü,GAZİOSMANPAŞA,KARAYOLLARI,TEM GAZİOSMANPAŞA,TEM,41.0907644086966,28.9066373834862
+Yaya Üst Geçidi,Metrobüse Geçiş Yaya Üst Geçidi,BEŞİKTAŞ,NİSBETİYE,Zincirlikuyu Kuzey Güney Yol Bağlantısı,Kuzey Güney Yol Bağlantısı ,41.0673607367683,29.0131548008915
+Araç Alt Geçidi,Akmerkez Levazım Yolu Araç Alt Geçidi,BEŞİKTAŞ,NİSBETİYE,Akmerkez Levazım Yolu,Akmerkez Levazım Yolu,41.0681024933738,29.0174966677437
+Köprü,Sadabat Caddesi Giriş Köprüsü,KAĞITHANE,MERKEZ,Sadabat Caddesi Cendere Caddesi Kesişimi,Sadabat Caddesi,41.0794599391916,28.9723412406958
+Araç Alt Geçidi,Topkapı Kavşağı 4,ZEYTİNBURNU,Bilinmiyor,CEVİZLİBAĞ,Prof. Dr. Necmettin Erbakan Cad.,41.0181676694931,28.9222876220128
+Köprü,İsmetpaşa Caddesi Giriş Köprüsü,KAĞITHANE,MERKEZ,İsmetpaşa Caddesi Cendere Caddesi Kesişimi,İsmetpaşa Caddesi,41.0828461986408,28.9762176170138
+Bilinmiyor,Selimpaşa Ortaköy Yolu Araç Üst Geçidi,SİLİVRİ,SELİMPAŞA,ORTAKÖY CAD.,D 100,41.0587124914749,28.3684914517413
+Araç Alt Geçidi,Topkapı Kavşağı 2,ZEYTİNBURNU,Bilinmiyor,CEVİZLİBAĞ,10.Yıl Cad.,41.0197468957151,28.923613703043
+Köprü,Ataköy Kavşağı-2,BAKIRKÖY,ZUHURATBABA,Sinan Erdem Spor Salonu,D-100,40.9917259058897,28.8496144485119
+Yaya Üst Geçidi,Veysel Karani Üst Geçidi,EYÜP,KARADOLAP,Alibeyköy,Atatürk Bulvarı,41.0796762460537,28.9285354459518
+Köprü,Atışalanı 1,ESENLER,BİRLİK,Atisalani Caddesi,0-3,41.047699208941,28.8773783620668
+Araç Alt Geçidi,İpekyolu Alt Geçidi,ESENLER,ASKERİ BÖLGE,İpekyolu Caddesi,İpekyolu Caddesi,41.0578250938078,28.8767934927502
+Yaya Üst Geçidi,42 Evler Yaya Üst Geçidi,BAĞCILAR,100. YIL,TEM,Bilinmiyor,41.0655532190367,28.8529778027734
+Yaya Alt Geçidi,Eminönü Meydan Alt Geçidi 2,FATİH,RÜSTEMPAŞA,Eminönü Meydan,Ragıp Gümüşpala Cad.,41.0175287658912,28.9709867886465
+Araç Alt Geçidi,Kumkapı Alt Geçidi,FATİH,ŞEHSUVAR BEY,Kennedy Cad. ile Çapraz Sok. Birleşimi,Kennedy Cad.,41.0032433399228,28.9652915756286
+Köprü,Kadife Kavşağı 2.(Abdi İpekçi Cad.),BAYRAMPAŞA,İSMET PAŞA,O3 Üstü,O3,41.039958669376,28.9123703335027
+Araç Alt Geçidi,Aksaray Tüneli,FATİH,KEMALPAŞA,Atatürk Bulvarı  Aksaray,Atatürk Bulvarı,41.0095422935756,28.9533699574898
+Araç Alt Geçidi,Unkapanı Alt Geçidi,FATİH,CİBALİ,Atatürk Bulvarı,Atatürk Bulvarı,41.0223926026841,28.9613821978019
+Köprü,Galata Köprüsü,BEYOĞLU,Bilinmiyor,Eminönü,Ragıp Gümüşpala Cad.,41.0202457835418,28.9732470897038
+Köprü,Ulubatlı Köprü,ZEYTİNBURNU,MALTEPE,Vatan Cad. Üstü,Beylerbeyi Cad.,41.0248146293318,28.9289161208883
+Yaya Üst Geçidi,Ambarlar (Demirciler Yanı) Üst Geçidi,ZEYTİNBURNU,SEYİTNİZAM,Demirciler Sitesi Yanı,Seyit Nizam Caddesi,41.0033701028131,28.8999368899806
+Yaya Alt Geçidi,Zeyret Alt Geçidi,FATİH,HACI KADIN,İMÇ,Atatürk Bulvarı,41.018963069506,28.9583665996519
+Araç Alt Geçidi,Tikveşli Alt Geçidi,BAYRAMPAŞA,YENİDOĞAN,O3 Altı,Tikveşli Yolu,41.03816802307,28.9176780007456
+Köprü,Muhittin Üstündağ Köprü,ZEYTİNBURNU,MALTEPE,Numunebağı Caddesi,Numunebağı Caddesi,41.0305733071691,28.9149968397277
+Araç Alt Geçidi,Topkapı E5 Araç Alt Geçidi 1,ZEYTİNBURNU,MALTEPE,Avrupa Pastanesi Yanı,Bilinmiyor,41.0199807511098,28.916773922311
+Araç Alt Geçidi,Topkapı E5 Araç Alt Geçidi 2,ZEYTİNBURNU,MALTEPE,Avrupa Pastanesi ,E5 Altı,41.0188334353143,28.9174517162033
+Yaya Üst Geçidi,Cevizlibağ Metrobüs Yaya Üst Geçidi,ZEYTİNBURNU,MALTEPE,Topkapı,E5,41.0164266244892,28.9107586784341
+Köprü,Ssaadet Tekyön  Köprüsü,ZEYTİNBURNU,MALTEPE,Bilinmiyor,Bilinmiyor,41.0184389456437,28.9142597083983
+Yaya Üst Geçidi,Zeytinburnu Metrobüs Yaya Üst Geçidi,GÜNGÖREN,ABDURRAHMAN NAFİZ GÜRMAN,Merter,E5,41.0028395148057,28.8894813763599
+Köprü,Davutpaşa Metro Köprüsü,ESENLER,ÇİFTE HAVUZLAR,Davutpaşa,Bilinmiyor,41.0206465904535,28.9002026558212
+Yaya Üst Geçidi,Avcılar Kavşağı Yaya Üst Geçidi (kuzey),AVCILAR,ÜNİVERSİTE,Mezarlık Önü,Avcılar Kavşağı,40.9867748725578,28.7216973407833
+Yaya Üst Geçidi,Pelikan MALL Metrobüs Yaya Üst Geçidi,AVCILAR,ÜNİVERSİTE,Pelikan MALL Önü,D-100,40.9907794965074,28.7135436231247
+Yaya Üst Geçidi,Avcilar Kavşaği Kuzey Yanyol Mİnübüs Duraği Yaya Üst Geçidi,AVCILAR,ÜNİVERSİTE,Üniversite Önü,Avcılar Kavşağı,40.9853133433638,28.7239839947379
+Yaya Üst Geçidi,Avcilar  Meslek Lisesi Yaya Üst Geçidi ,AVCILAR,ÜNİVERSİTE,Meslek Lisesi Önü,D-100,40.984510607562,28.7243728091518
+Yaya Üst Geçidi,Avcılar Metrobüs,AVCILAR,ÜNİVERSİTE,Meslek Lisesi Önü,D-100,40.9839920233524,28.7254124225527
+Araç Alt Geçidi,Avcilar Ambarli Kavşaği,AVCILAR,MUSTAFA KEMALPAŞA,Gelişim Üniv. Önü,D-100,40.9991066602153,28.6994091870952
+Yaya Üst Geçidi,Son Durak Metrobüs,BÜYÜKÇEKMECE,CUMHURİYET,TÜYAP Önü,D-100 Güney Yan Yol,41.0213364600368,28.6263833402275
+Araç Alt Geçidi,Turgut Özal Geçidi,BAKIRKÖY,ATAKÖY 7-8-9-10. KISIM,Yenibosna Garajı,Ahmet Yesevi,40.9921054456223,28.8386517996114
+Yaya Üst Geçidi,Yenibosna ,BAHÇELİEVLER,FEVZİ ÇAKMAK,Kuleli,D-100,40.9924538497746,28.8345507079729
+Yaya Üst Geçidi,Çobançeşme,BAHÇELİEVLER,FEVZİ ÇAKMAK,Adlı Tıp Önü,D-100,40.9926029657398,28.8302439077218
+Köprü,Mimar Sinan Kavşağı,BAHÇELİEVLER,SOĞANLI,İlçe Emniyet Müd.,Miimar Sinan,41.0134100035943,28.8478506391688
+Köprü,Deposite Kavşağı,BAŞAKŞEHİR,ZİYA GÖKALP,Deposite Önü,Atatük Bulvarı,41.0699704453009,28.8103951881485
+Köprü (Dere),Haraççı-Sazlıbosna Köprüsü,ARNAVUTKÖY,HARAÇÇI,ATATÜRK BULVARI,Haraççı-Hadımköy Yolu,41.172736174173,28.7023828049223
+Köprü (Dere),Bolluca Girişi,ARNAVUTKÖY,HİCRET,İSMET İNÖNÜ CAD.,İsmet İnönü Caddesi,41.1942956211998,28.767418801618
+Köprü (Dere),Boyalık Sapağı,ARNAVUTKÖY,DURSUNKÖY,DURSUNKÖY-BAKLALI CAD.,Dursunköy-Baklalı Caddesi,41.2122890385564,28.6436339104948
+Köprü (Dere),Belgrad Mahallesi Giriş,ÇATALCA,BELGRAT,"Çiftlikköy Yönünden Belgrad
+Mahallesine Girişte",Sultan Fatih Cad.,41.3771140648295,28.3850614145903
+Menfez,Çakıl Yolu-Ovayenice Arası 1,ÇATALCA,ÇAKIL,"Çatalca-Çakıl Yol Sapağından
+ Ovayenice Yoluna Giderken
+ 400 m. Sonra",Berhudar Sok.,41.1131591615583,28.4470342071689
+Menfez,Elbasan-Çakıl Yolu,ÇATALCA,ÇAKIL,Metal Yapı Fabrikası Mevkii,Seyfi Demirsoy Cad.,41.1309369278122,28.4314324702286
+Menfez,Çiftlikköy - Belgrat Yolu 1,ÇATALCA,ÇİFTLİKKÖY,"Çiftlik-Belgrad Yol 
+Başlangıcından 1+000 km. Sonra",Sultan Fatih Cad.,41.3510581982598,28.4067348856813
+Köprü (Dere),Çiftlikköy - Belgrat Yolu 2,ÇATALCA,BELGRAT,"Çiftlik-Belgrad Yol 
+Başlangıcından 2+500 km
+. Sonra",Sultan Fatih Cad.,41.3652871878123,28.4026519425079
+Menfez,Elbasan-İnceğiz Yolu,ÇATALCA,ELBASAN,"Elbasan'dan İnceğiz'e Giderken 
+2+500 km .Sonra",İnceğiz Cad.,41.1576923938485,28.3967082769731
+Köprü,Yaşar Doğu Bulvarı Köp,BAŞAKŞEHİR,BAŞAK,Kadife Tekstil Önü,Yaşar Doğu Bulvarı,41.0818807487837,28.8112729415857
+Köprü,Altınşehir Göl Köprüsü,BAŞAKŞEHİR,ŞAHİNTEPE,Göl Üstü,TEM Yanyol,41.0626048926698,28.7442337582765
+Köprü,Esenkent-Bahçeşehir Köprüsü,ESENYURT,ESENKENT,TEM Üstü,Esenkent-Bahçeşehir Yolu,41.0578811575658,28.6915566400278
+Araç Alt Geçidi,İkitelli Tepeüstü Kavşağı,BAŞAKŞEHİR,ZİYA GÖKALP,MALL OF,Süleyman Demirel Bulvarı,41.064571625757,28.8053136429504
+Yaya Üst Geçidi,Beylikdüzü Metrobüs,ESENYURT,MEVLANA,Marmara Park Önü,D-100,41.009413429374,28.6574464393291
+Yaya Üst Geçidi,Haramidere Metrobüs,BEYLİKDÜZÜ,YAKUPLU,Hasırcılar ,D-100,41.0059380463635,28.673927648279
+Köprü,İhlas Cad. Köprülü Kavşak,BEYLİKDÜZÜ,MARMARA,İhlas Evleri,Liman yolu,40.9814047533522,28.6829771371303
+Yaya Üst Geçidi,Haramidere San. Metrobüs,BEYLİKDÜZÜ,YAKUPLU,Haramidere San.ayi,D-100,41.0040698323913,28.685544235145
+Köprü,Bağlantı Yolu-Doğan Araslı Bağ.,ESENYURT,SULTANİYE,Haramidere-TEM Bağ. Üstü,Haramidere-TEM Bağ. Yolu,41.0316651464487,28.6868002168272
+Araç Alt Geçidi,Uğur Mumcu Cad. Alt Geçİdİ,ESENYURT,AKÇABURGAZ,KİPTAŞ Evleri Önü,Uğur Mumcu Cad. Alt Geçİdİ,41.065762837379,28.6514673269064
+Yaya Üst Geçidi,Kervan Yaya Üst Geçidi,ESENYURT,CİHANGİR,Kervan,D-100,40.9997548970923,28.6941267359012
+Köprü,İnönü Cad. Tren Üst Köp.,KÜÇÜKÇEKMECE,CUMHURİYET,Küçükçekmece Meydan,İnönü Cad. Tren Üst Köp.,40.9920509711045,28.7711732405165
+Köprü,Kubilay Cad. Köp.,KÜÇÜKÇEKMECE,Bilinmiyor,Menekşe Sahil,Kubilay Cad. Köp.,40.9819435540957,28.7693489161293
+Köprü,Haydarbey Köp.,BAKIRKÖY,BASINKÖY,Küçükçekmece İ.M.K.B.,Turgut Reis,40.9853700908219,28.7793093255561
+Yaya Üst Geçidi,Forya Metrobüs,BAKIRKÖY,ŞENLİKKÖY,Avrupa Göz Hastanesi,D-100,40.9877563228809,28.7907269965555
+Köprü,TEM Kuzey-Güney Yanyol Bağ..Köp K.S.S.,BAŞAKŞEHİR,ALTINŞEHİR,Kanuni Sultan S.Hastanesi,TEM Güney Yanyol,41.061000173443,28.7550228550802
+Yaya Üst Geçidi,İbrahim Tatlıses,KÜÇÜKÇEKMECE,MEHMET AKİF,MALL OF,TEM Güney Yanyol,41.0615996446597,28.8051411674713
+Köprü,Huzur Cad. Köprüsü,KÜÇÜKÇEKMECE,İSTASYON,Kanarya Mezarlığı,Huzur,41.0191034664276,28.7816219307555
+Köprü,TEM Güney-Kuzey Yan Yol,BAŞAKŞEHİR,ZİYA GÖKALP,Ağaoğlu,TEM Güney Yanyol,41.0627634435172,28.7816388943114
+Köprü,M.Akif Ersoy Kavşağı,KÜÇÜKÇEKMECE,HALKALI MERKEZ,Halkalı Çamlık Parkı,M.Akif Ersoy bulvarı,41.0291843058049,28.7903090324645
+Köprü,Menekşe Balıkçılar Köp,KÜÇÜKÇEKMECE,Bilinmiyor,Menekşe Sahil,Menekşe Balıkçılar Köp.,40.9776141758092,28.7747879468153
+Köprü,Nurettin Bayraktar Köp.,BAKIRKÖY,OSMANİYE,Marmara FORUM,M.Akif Ersoy,41.0013977245379,28.8846681291174
+Köprü,İncirli Kavşağı,BAKIRKÖY,KARTALTEPE,Ömür Plaza,İncirli Kavşağı,40.9970539294052,28.8696276727229
+Araç Alt Geçidi,Havuzlu Kavşak,BAKIRKÖY,YEŞİLKÖY,Havalimanı,Atatürk Havalimanı Cad.,40.9642908812208,28.8339024574491
+Yaya Alt Geçidi,GALERIA Yaya Alt Geçidi,BAKIRKÖY,ATAKÖY 1. KISIM,GALERIA,Rauf Orbay,40.9748515376817,28.8719932384852
+Araç Alt Geçidi,Kırserdarı Tren Köp.,BAKIRKÖY,YEŞİLKÖY,İBB Sosyal Tesisler,Kırserdarı,40.9644422593662,28.8037390331898
+Köprü,Darülaceze Cad. Halide Edip Adıvar Mahallesine Geçiş Araç Üst Geçidi,BEYOĞLU,HALİDE EDİP ADIVAR,Darülaceze Cad. Halide Edip Adıvar mMahallesine Geçiş,Darülaceze Cad.,41.0653910848357,28.9777632277283
+Yaya Üst Geçidi,Halil Rıfat Paşa Yaya Üst Geçidi,BEYOĞLU,HALİL RIFAT PAŞA,Halil Rıfat Paşa Üst Geçit Euro Master Önü,Piyalepaşa Bulvarı,41.0580195596533,28.9720529986322
+Köprü,Piyalepaşa Okmeydanı Bağlantı Tünel İşletmeleri Üstü Araç Üst Geçidi,BEYOĞLU,HALİL RIFAT PAŞA,Piyalepaşa Okmeydanı Bağlantı Tünel İşletmeleri Üstü ,Piyalepaşa Bulvarı,41.0542058559575,28.9686497913161
+Kombine Geçit,Ömer Hayyam Caddesi Bitimi Refik Saydam Girişi Bağlantısı Kombine Geçidi,BEYOĞLU,KAMER HATUN,Ömer Hayyam Caddesi Bitimi Refik Saydam Girişi Bağlantısı,Ömer Hayyam Cad.,41.0355076310626,28.9757276297164
+Köprü,Piyalepaşa Girişi İplikçi Durağı Önü Araç Üst Geçidi,BEYOĞLU,KÜÇÜK PİYALE,Piyalepaşa Girişi İplikçi Durağı Önü,Bahriye Cad.,41.0381185594009,28.9709454972606
+Yaya Üst Geçidi,Örnektepe ve Talatpaşa Bağlantısı Yaya Üst Geçidi,BEYOĞLU,HALİL RIFAT PAŞA,Talatpaşa ile Şark Kahvesini Birleştiren Üst Geçit Nişangah Otobüs Durağı,Odesa Bulvarı,41.0563244952177,28.9661135926199
+Köprü,Cemal Kamacı Spor Kompleksi Örnektepe Araç Üst Geçidi,BEYOĞLU,HALICIOĞLU,Cemal Kamacı Spor Kompleksi Örnektepe Üst Geçit,Halıcıoğlu Okmeydanı Cad.,41.0520859971384,28.9517285429667
+Köprü,Nurtepe Bağlantı Köprüsü Araç Üst Geçidi,KAĞITHANE,NURTEPE,Nurtepe Bağlantı Köprüsü,Nurtepe Viyadüğü,41.0749041808155,28.9579266084075
+Yaya Üst Geçidi,Bomonti Durağı Yaya Üst Geçidi,ŞİŞLİ,PAŞA,Bomonti Durağı Yanı,Akar Cad.,41.0570387200833,28.9734316194651
+Araç Alt Geçidi,28 Nisan Cad. Araç Alt Geçidi,ŞİŞLİ,KAPTANPAŞA,28 Nisan Cad. Kuzey Güney Yanyol,O - 1 Otoyolu,41.0673433207257,28.9754520535369
+Araç Alt Geçidi,Kuzey Güney Yol Villa Caddesi Üstü Araç Alt Geçidi,BEŞİKTAŞ,ESENTEPE,Kuzey Güney Yol Villa Caddesi Üstü,Villa Cad.,41.066903810109,29.0101715858604
+Köprü,Büyük Armutlu Uğur Mumcu Bulvarı TEM Üst Geçidi,BEŞİKTAŞ,FATİH SULTAN MEHMET,Büyük Armutlu Uğur Mumcu Bulvarı TEM Üstü,Tepecik Yolu,41.0920906604297,29.0319395533779
+Araç Alt Geçidi,Levent Harp Akademileri Önü Araç Alt Geçidi,BEŞİKTAŞ,KONAKLAR,Levent Harp Akademileri,TEM,41.0976862616013,29.0128057278969
+Araç Alt Geçidi,Silahtarağa Caddesi Haliç Kongre Merkezi Araç Alt Geçidi,BEYOĞLU,SÜTLÜCE,Silahtarağa Caddesi Haliç Kongre Merkezi,Karaağaç Cad.,41.0511200684297,28.9410350241226
+Köprü,Unkapanı Köprüsü Araç Üst Geçidi,BEYOĞLU,Bilinmiyor,Unkapanı Köprüsü,Atatürk Köprüsü,41.0241353899232,28.9649950477636
+Köprü,İTÜ Önü Aytekin Kotil  Araç Üst Geçidi,ŞİŞLİ,PINAR,İTÜ Önü Aytekin Kotil Geçidi,Büyükdere Cad.,41.1085235494062,29.0222316456554
+Yaya Üst Geçidi,İETT Sanayi Mahallesi Durak Önü Yaya Üst Geçidi,BEŞİKTAŞ,HUZUR,Sanayi Mah.Üst Geçit ,Büyükdere Cad.,41.0960692405979,29.0060470663776
+Araç Alt Geçidi,Sanayi Mah. Üst Geçit Ecmel Kutay Katlı Kavşağı,BEŞİKTAŞ,ESENTEPE,Sanayi Mah. Üst Geçit Ecmel Kutay Katlı Kavşağı,Büyükdere Cad.,41.0920986217405,29.0052346250621
+Köprü,Akmerkez Önü Koç Köprüsü Araç Üst Geçidi,BEŞİKTAŞ,KÜLTÜR,Akmerkez Önü Koç Köprüsü,Nisbetiye Cad.,41.0773422133612,29.0247571409547
+Araç Alt Geçidi,Çağlayan Tünel Bağlantı Yolu Araç Alt Geçidi,ŞİŞLİ,MERKEZ,Çağlayan tünel Bağlantı Yolları,Piyalepaşa Bulvarı,41.0691646603141,28.9786103352458
+Köprü,Kuzey Güney Yol Mecidiye Köy Araç Üst Geçidi,ŞİŞLİ,MERKEZ,Kuzey Güney Yol Mecidiye öy Girişi,O - 1 Otoyolu,41.0671063547392,28.9881997489871
+Araç Alt Geçidi,Kuzey Güney Araç Alt Geçidi,ŞİŞLİ,MERKEZ,Kuzey Güney Yol Abide-i Hürriyet Cad.,Abide-i Hürriyet Cad.,41.0671657191692,28.9854680562599
+Köprü,Maslak OPET Önü Araç Üst Geçidi,SARIYER,HUZUR,Maslak OPET Önünde Kalan Üst Geçit Ayazağa Sarıyer Bağlantısı,Büyükdere Cad.,41.1068066204301,29.0146976449958
+Yaya Üst Geçidi,Baştabya Tramvay Durağı Yaya Üst Geçidi,SULTANGAZİ,ASKERİ BÖLGE,Baştabya Tramvay Durağı,Eski Edirne Asfaltı,41.0881918920316,28.8662250624588
+Araç Alt Geçidi,Hamza Yerlikaya Araç Alt Geçidi,SULTANGAZİ,ASKERİ BÖLGE,Hamza Yerlikaya,Mevlana Cad.,41.0866658184808,28.868983305563
+Araç Alt Geçidi,İbrahim Hayırlıoğlu,BAYRAMPAŞA,YILDIRIM,Bosna-Çukurçeşme,Çukurçeşme Cad.,41.0599626231088,28.9031024533236
+Araç Alt Geçidi,Metris Kavşağı Araç Alt Geçidi,SULTANGAZİ,CUMHURİYET,Metris Kavşağı,Yakamoz Sk.,41.0830390251169,28.8743295840744
+Araç Alt Geçidi,İSTOÇ Yol Ayrımı Araç Alt Geçidi,SULTANGAZİ,ASKERİ BÖLGE ESENLER,İSTOÇ Yol Ayrımı,Mahmut Bey Cad.,41.1073319977653,28.8502291230436
+Köprü (Dere),Deliklikaya Köprüsü,ARNAVUTKÖY,ÖMERLİ,Hadımköy-Ömerli Caddesi,Hadımköy-Ömerli Caddesi,41.1127542961004,28.6457519859201
+Köprü (Dere),Hallaçlı-Çerkezköy Yolu 1,ÇATALCA,HALLAÇLI,"Hallaçlı'dan Çerkezköy İstikametine
+ Giderken 500 m . Sonra",Hallaçlı-Çerkezköy Cad.,41.3155890097821,28.0869018183082
+Köprü (Dere),Ormanlı Köprüsü 4,ÇATALCA,ORMANLI,"Ormanlı'dan Hisarbeyli İstikametine
+ Giderken 1+100 km . Sonra",Karacaköy Cad.,41.3815988445003,28.4569310054039
+Köprü (Dere),İnceğiz - Kabakça Yolu 2,ÇATALCA,İNCEĞİZ,İnceğiz'den Kabakça İstikametine Ggiderken 2+000 k. Sonra,Hanice Cad.,41.2027322283094,28.3869260801884
+Menfez,İnceğiz - Kabakça Yolu 3,ÇATALCA,KABAKÇA,"İnceğiz Yönünden Kabakça-Akören
+ Sapağına Gelmeden 750 m. Önce",Hanice Cad.,41.2091077085085,28.3782465032793
+Köprü (Dere),Kabakça - Akören Yolu 1,ÇATALCA,KABAKÇA,"Akören İstikametine Giderken
+ Kabakça Mah. Çıkışı Mevkii",Hanice Cad.,41.2343617254065,28.367728166236
+Menfez,Kalfaköy-Başakköy Yolu 1,ÇATALCA,KALFA,"Kalfa'dan Başakköy İstikmaetine 
+Giderken Mahalle Çıkışından 500 m. Sonra",Osmanlı Cad.,41.2948529580473,28.4387490841791
+Köprü (Dere),Karacaköy Giriş 1,ÇATALCA,KARACAKÖY MERKEZ,"Karacaköy'den Belgrad İstikametine 
+Giderken 600 m. Sonra",Kuleli Cad.,41.3960487909045,28.3840174820043
+Köprü (Dere),Karacaköy Giriş 2,ÇATALCA,KARACAKÖY MERKEZ,"Karacaköy'den Belgrad İstikametine 
+Giderken 100 m. Sonra",Kuleli Cad.,41.3995850495763,28.3828890484174
+Köprü (Dere),Karamandere-Karacaköy Yolu 1,ÇATALCA,KARACAKÖY MERKEZ,"Karamandere'den Karacaköy
+ İstikametine Giderken 500 m. Sonra",Karaca Ahmet Paşa Cad.,41.3782379278713,28.3015242721566
+Köprü (Dere),Muratbey Mahallesi ,ÇATALCA,MURATBEY MERKEZ,Çatalca İstanbul Yolu Başlangıcından 750m. Muratbey İstikametinde ,Kuzeyoğlu Cad.,41.102874111017,28.4988579860579
+Köprü (Dere),Karacaköy - Ormanlı Yolu 3,ÇATALCA,ORMANLI,Karacaköy Çıkışından Ormanlı İsikametinde 3+650 km. Sonra,Karacaköy Cad.,41.395623018546,28.4332188465597
+Köprü (Dere),Ormanlı Mahallesi 2,ÇATALCA,ORMANLI,Ormanlı Mahallesi Giriş,Namlı Sok.,41.3910279309657,28.4523578664824
+Menfez,Örencik - Dağyenice Yolu,ÇATALCA,ÖRENCİK,Örencik Halısaha Mevkii,Örencik Cad.,41.3220254730444,28.4741987787882
+Köprü,Seymen-Çevre Yolu,SİLİVRİ,ALİPAŞA,TEM Kınalı Yolundan Seymen İstikameti 1+800 km. Sonra,TPAO Tesisleri Sok.,41.1240126123005,28.1682679038723
+Menfez,Değirmenköy-B.Çavuşlu Yolu 3,SİLİVRİ,İSMETPAŞA,Tavukçu Yolu Mevkii,Gölet Cad.,41.1172303249541,28.0185041202448
+Köprü (Dere),Kavaklı-Selimpaşa Yolu,SİLİVRİ,SELİMPAŞA,6057 Sok Kesişimi,Güller Cad.,41.0718498944043,28.3527753280588
+Yaya Üst Geçidi,Güzelşehir Üst Geçidi,BÜYÜKÇEKMECE,BAHÇELİEVLER,Güzelşehir Sitesi,D100 Karayolu,41.0160474550351,28.4881338359844
+Yaya Üst Geçidi,Mimar Sinan Üst Geçidi,SİLİVRİ,MİMAR SİNAN,Alipaşa Cad.,Tem-Silivri Bağlantı Yolu,41.0824913715833,28.2405489427022
+Köprü,Silivri Cezaevi-Çeltik Yolu,SİLİVRİ,Bilinmiyor,Söğütlü Dere Sok.,TPAO Tesisleri Sok.,41.096554450084,28.1495946554779
+Araç Alt Geçidi,Ortaköy-Kavaklı Yolu,SİLİVRİ,ORTAKÖY,Ayazm Cad. Mevkii,Harbiye Cad.,41.090787567053,28.3636902468655
+Köprü (Dere),Fener-Silivri Yolu 3,SİLİVRİ,FENER ,Akören Dört Yoldan Fener İstikametine doğru    3+250 km sonra,Mustafa Kemal Cad.,41.1467190563646,28.2463892544416
+Araç Alt Geçidi,Turgut Özal Bulvarı Araç Alt Geçidi,KÜÇÜKÇEKMECE,ATAKENT,Turgut Özal Bulvarı,Turgut Özal Bulvarı,41.0342103948525,28.7693958283302
+Araç Alt Geçidi,Galeri cad. Araç Alt Geçidi,GAZİOSMANPAŞA,Bilinmiyor,542.Sokak Kesişimi,Galeri Cad,41.0817292977587,28.896830368462
+Yaya Üst Geçidi,Kennedy Caddesi Yaya Üst Geçidi 1,ZEYTİNBURNU,YEDİKULE,Bilinmiyor,Kennedy Cad.,40.9885590718377,28.9224791819175
+Yaya Üst Geçidi,Taksim Eklolojik Köprü,BEYOĞLU,GÜMÜŞSUYU,Divan Otel ile Gezi Parkı arası,Asker Ocağı Cad.,41.0404414286871,28.987492005761
+Araç Üst Geçidi,Kennedy Köprülü Kavşağı Dönüş Köprüsü,ZEYTİNBURNU,KAZLIÇEŞME,Bilinmiyor,Bilinmiyor,40.9882898209572,28.9126973307941
+Araç Alt Geçidi,Avrasya Gösteri Merkezi Araç Alt Geçidi,FATİH,CERRAHPAŞA,Avrasya Gösteri Merkezi Önü ,Kennedy Cad.,41.0012888549961,28.9436801963349
+Araç Alt Geçidi,Avrasya Gösteri Merkezi Araç Alt Geçidi,FATİH,AKSARAY,Avrasya Gösteri Merkezi Önü ,Kennedy Cad.,41.0028417907933,28.9535169899714
+Araç Alt Geçidi,O-3 TEM Altı Araç Alt Geçidi,BAĞCILAR,GÖZTEPE,O-3 Güney Yanyol Batışehir Yönü,O-3,41.0621928897884,28.8408716588796
+Araç Üst Geçidi,O-3 Güney Yanyol - Tem Bağlantı Köprüsü,BAĞCILAR,MAHMUTBEY,İstoç Karşısı O-3 Güney Yanyol TEM Katılımı,O-3 Güney Yanyol,41.0625497228824,28.820975071801
+Araç Üst Geçidi,Halkalı Güneşli Köprüsü,BAĞCILAR,15 Temmuz,Basın Ekspress Üstü Halkalı Güneşli Köprüsü,Halkalı Güneşli Kavşağı,41.0271672707103,28.810974879165
+Araç Alt Geçidi,Caprice Gold Önü Araç Alt Geçidi,BAYRAMPAŞA,KOCATEPE,Caprice Önü Otogar Bağlantı Yolu Araç Alt Geçidi,Otogar Bağlantı Yolu,41.0482138738695,28.892733135392
+Araç Üst Geçidi,İstoç O-6 Yolu Bağlantı Köprüsü,BAĞCILAR,BAŞAK,Bilinmiyor,O-6 Bağlantı Yolu,41.0721359231062,28.8156481857373
+Köprü (Dere),Karacaköy - Ormanlı Yolu 4,ÇATALCA,ORMANLI,Karacaköy Çıkışından Ormanlı İsikametinde 3+000 km. Sonra,Karacaköy Cad.,41.3966972717508,28.4260842007464
+Araç Üst Geçidi,Akşemsettin Camii Karşısı Araç Üst Geçidi,BAŞAKŞEHİR,BAŞAK,4.Etap Arkası YSS Yolu Üstü,Bilinmiyor,41.0924236461403,28.8136123726074
+Araç Üst Geçidi,Mahmutbey Batı Kavşağı 2 Araç Üst Geçidi,KÜÇÜKÇEKMECE,MEHMET AKİF,Bilinmiyor,Mahmutbey Batı Kavşağı,41.0597931492728,28.8112299394353
+Araç Alt Geçidi,Otogar Bağlantı Yolu Tekstilkent Giriş Alt Geçidi,ESENLER,ORUÇREİS,Otogar Bağlantı Yolu Tekstilkent Girişi,Vadi Cad.,41.0770119239843,28.8733560684614
+Araç Alt Geçidi,Güneşli Kavşağı Araç Alt Geçidi,BAĞCILAR,15 Temmuz,Halkalı Güneşli Kavşağı Bahçelievler Yönü,Halkalı Güneşli Kavşağı,41.0269566641166,28.8131934064442
+Bilinmiyor,TEMA İstanbul Araç Alt Geçidi,KÜÇÜKÇEKMECE,ATAKENT,TEMA İstanbul Önü,O-3 Güney Yanyol,41.0615381638798,28.7649782052204
+Araç Üst Geçidi,Bahçeşehir Altınşehir Yolu Tem Bağlantı Köprüsü 1,AVCILAR,TAHTAKALE,Bahçeşehir Tem Tır Parkı Girişi,Bahçeşehir-Altınşehir Yolu,41.0573493213123,28.7105643902941
+Araç Alt Geçidi,İbrahim Hayırlıoğlu,GAZİOSMANPAŞA,Bilinmiyor,Eski Edirne Asfaltı-Sağmalcılar,Kültür Caddesi,41.0579135254474,28.9058217606793
+Araç Üst Geçidi,Akpınar Cad. IKEA İç Yol Köprüsü,BAYRAMPAŞA,KOCATEPE,IKEA İç Yolu Girişi- Paşa Caddesi Üstü,IKEA İç Yolu,41.046175282263,28.8995796361897
+Araç Alt Geçidi,Taşocağı Caddesi Araç Alt Geçidi,BAĞCILAR,Mahmutbey ,Bilinmiyor,Bilinmiyor,41.0454784060863,28.8117730975518
+Yaya Üst Geçidi,Güzelce Alt Geçit Durağı,BÜYÜKÇEKMECE,GÜZELCE,Bilinmiyor,Güzelce Marina Alt Geçit Durağı ,41.0075219147891,28.516305552485
+Köprü,Aksaray Üst Geçidi 2,FATİH,KEMALPAŞA,Kemalpaşa ,Atatürk Bulvarı,41.0094051219871,28.953389269446
+Araç Alt Geçidi,Bahariye Caddesi Araç Alt Geçidi,KÜÇÜKÇEKMECE,MEHMET AKİF,Basın Ekspress Yanı Bahariye Caddesi,Bahariye Cad.,41.060362870952,28.8095016089512
+Araç Üst Geçidi,Bilinmiyor,BEŞİKTAŞ,KONAKLAR,4.Levent Kavşağı,Büyükdere Cad.,41.0833719650491,29.0096529367384
+Yaya Üst Geçidi,Topkapı Durağı Yaya Üst Geçidi,EYÜP,TOPÇULAR,Topkapı Durağı ,E-5,41.0297894361064,28.924722663377
+Köprü,Ç.Çeşme Kavşağı-2,KÜÇÜKÇEKMECE,KARTALTEPE,Havaalanı Bağlantısı,D-100,40.994817634729,28.8200903567643
+Yaya Üst Geçidi,Büyükdere Caddesi Yaya Üst Geçidi,BEŞİKTAŞ,ESENTEPE,Büyükdere Cad.,Büyükdere Cad.,41.0901407473747,29.0058674660002
+Metro Üst Geçidi,Haliç Metro Üst Geçidi,FATİH,YAVUZ SİNAN,Haliç Metro Üst Geçidi,Ragıp Gümüşpala Cad.,41.0224297532199,28.9664021049342
+Araç Üst Geçidi,Metrobüs Yolu Araç Üst Geçidi,BEŞİKTAŞ,BALMUMCU,Köprü Öncesi Metrobüs Yolu,Metrobüs Yolu,41.0576503278863,29.0179546130788
+Araç Üst Geçidi,Expo Center Önü,BAKIRKÖY,YEŞİLKÖY,Havlimanı Dönüş Köprüsü,Havalimanı Cad.,40.9897764683004,28.8183821337999
+Araç Üst Geçidi,Gülhane Parkı Sahil Girişi Araç Üst Geçidi,FATİH,HOCAPAŞA,Gülhane Parkı Sahil Girişi Sarayburnu Karşısı,Gülhane Parkı,41.0160825664365,28.9853786417971
+Araç Alt Geçidi,E-5 Altı Araç Üst Geçidi,BEŞİKTAŞ,BALMUMCU,E-5 Metrobüs Yolu Köprü Öncesi,E-5,41.0579058882351,29.0183096202696
+Araç Üst Geçidi,Cevizlibağ Metrobüs Dönüş Köprüsü,BAYRAMPAŞA,MALTEPE,Bilinmiyor,D 100,41.0219077387335,28.9194954849482
+Köprü,Anadolu Caddesi-Cendere Caddesi Kesşimi Köprüsü 2,KAĞITHANE,HAMİDİYE,Anadolu Cad.,Anadolu Cad.,41.095756489275,28.9808427445198
+Araç Alt Geçidi,Topkapı Kavşağı 2,ZEYTİNBURNU,Bilinmiyor,CEVİZLİBAĞ,TOPKAPI KAVŞAĞI,41.0195627640064,28.9220108734482
+Araç Alt Geçidi,Edirnekapı Metrobüs Garaj Alt Geçidi,EYÜP,TOPÇULAR,Metrobüs Yolu Araç Alt Geçidi,Metrobüs Yolu,41.030858111321,28.9254066398345
+Köprü,Anadolu Caddesi-Cendere Caddesi Kesşimi Köprüsü 1,KAĞITHANE,HAMİDİYE,Anadolu Cad.,Anadolu Cad.,41.0911099462425,28.9831021430387
+Bilinmiyor,Kumburgaz Araç Üst Geçidi,BÜYÜKÇEKMECE,KUMBURGAZ,E-6 Bağlantı Yönü,D 100,41.0293834337897,28.4597072199063
+Araç Alt Geçidi,Ayazağa Cendere Caddesi Araç Alt Geçidi,KAĞITHANE,Bilinmiyor,Bilinmiyor,Ayazağa Cendere Caddesi,41.1092167204154,28.988741773094
+Araç Üst Geçidi,Harp Akademileri Önü Büyükdere Caddesi Maslak Bağlantı Köprüsü,SARIYER,HUZUR,Harp Akademileri Önü Büyükdere Caddesi Maslak Bağlantı Köprüsü,Büyükdere Caddesi,41.0992486996355,29.0082291922202
+Köprü,Kağıthane Belediyesi Yanı Giriş Köprüsü,KAĞITHANE,MERKEZ,İmrahor Cad - Lalezar Sk Kesişimi,Lalezar Sk,41.0722897934452,28.9656735980278
+Bilinmiyor,Topkapı Araç Alt Geçidi,FATİH,Bilinmiyor,TOPKAPI,D-100 Karayolu,41.0192165434477,28.9194269178317
+Araç Üst Geçidi,Ayazağa Köprülü Kavşağı,KAĞITHANE,AYAZAĞA,3.Kolordu Önü,Maslak Ayazağa Cad.,41.1089514185832,29.0100425329875
+Araç Alt Geçidi,Büyükdere Caddesi TEM Bağlantısı Araç Alt Geçidi,BEŞİKTAŞ,LEVENT,4.Levent Kavşağı,Büyükdere Caddesi TEM,41.0838212002028,29.0102668744671
+Araç Alt Geçidi,Abide-i Hürriyet Cad. Araç Alt Geçidi,ŞİŞLİ,MERKEZ,Çağlayan Adliyesi Arkası Abide-i Hürriyet Cad. ,Abide-i Hürriyet Cad.,41.068473625861,28.9835329965728
+Köprü,Derimod Köprü,ZEYTİNBURNU,KAZLIÇEŞME,Belediye Yanı,Sahil Kennedy Cad.,40.9873309551266,28.9102150048508
+Köprü,Ambarlar Köprü (Osmaniye Kavşağı),ZEYTİNBURNU,MALTEPE,Bilinmiyor,E5,41.0122422316432,28.9040062242074
+Araç Alt Geçidi,Otakçılar Araç Alt Geçidi,EYÜP,DEFTERDAR,E5 Altı,Otakçılar Cad.,41.0374227428663,28.9359968610757
+Yaya Üst Geçidi,Edirnekapı Metrobus Yaya Üst Geçidi,EYÜP,TOPÇULAR,Şehitlik,E5 Üstü,41.0330011610318,28.9288142985427
+Araç Alt Geçidi,Hızırbey Köprülü Kavşağı ,EYÜP,TOPÇULAR,Demirkapı ,Rami Kışla Cad.,41.0360316916386,28.9240476902039
+Köprü,Ayvalıdere Köprü ,BAYRAMPAŞA,TERAZİDERE,Miyansera Evleri önü,Dumlupınar Cad.,41.0340058022204,28.8962752679182
+Köprü,Davutpaşa 2 (D-100 İstikameti),ZEYTİNBURNU,MALTEPE,Davutpaşa,General Ali Rıza Gürcan Cad.,41.0207471232203,28.9007514727149
+Yaya Üst Geçidi,Avcılar Kavşağı Yaya Üst Geçidi (güney),AVCILAR,MERKEZ,Garanti Bankası Önü,Avcılar Kavşağı,40.9855820105233,28.7213328870025
+Yaya Üst Geçidi,Fİruzköy Bulvari Ünİversİte Kampüs Yanı Yaya Üst Geçidi,AVCILAR,FİRUZKÖY,Üniversite Önü,Firuzköy Bulvarı,40.9869691466438,28.7234490290135
+Araç Alt Geçidi,TEM Kuzey Yanyol Ispartakule Kavşaği 1 ,AVCILAR,TAHTAKALE,Işık Okulları Önü,O3 Kuzey Güney Yan Yol,41.0554762864234,28.7164955653721
+Yaya Üst Geçidi,TÜYAP Metrobüs Son Durak,ESENYURT,GÖKEVLER,TÜYAP Önü,D-100,41.0224439600015,28.6267241760822
+Araç Alt Geçidi,Hadımköy İstanbul Cad.Alt Geçidi,ESENYURT,AKÇABURGAZ,Hadımköy Gişe,Hadımköy İstanbul Cad.Alt Geçidi,41.0843274000827,28.6287672233653
+Köprü,Hadımköy Yolu TEm Köp.,BÜYÜKÇEKMECE,KARAAĞAÇ,Hadımköy Gişe,Hadımköy Yolu,41.089736952733,28.6328571540326
+Köprü,Ünverdi Kavşağı,BAHÇELİEVLER,BAHÇELİEVLER,Yaşam Hastanesi,Ünverdi Kavşağı,41.0033264779087,28.8656892323943
+Köprü (Dere),Hacımaşlı Köprüsü,ARNAVUTKÖY,ARNAVUTKÖY MERKEZ,HACIMAŞLI-ARNAVUTKÖY CAD.,Hacımaşlı-Arnavutköy Caddesi,41.1627559387894,28.725237802959
+Köprü (Dere),Pirinççi Köy İçi,EYÜP,PİRİNÇÇİ,Pirinççi Köy Yolu,Pirinççi Köy Yolu,41.1638108432974,28.851876724349
+Köprü (Dere),Akalan Köprüsü,ÇATALCA,AKALAN,Akalan Mahalle Girişi,Mustafa Kemal Cad.,41.2532037614974,28.4221603612418
+Köprü (Dere),Çakıl-Kamiloba Yolu,ÇATALCA,ÇAKIL,"Çatalca-Çakıl Yol Sapağından 
+Kamiloba Yönüne Giderken 
+400 m. Sonra",Beril Sok.,41.1126773528574,28.4536262936586
+Araç Alt Geçidi,5.Etap Köprüsü,BAŞAKŞEHİR,BAŞAK,Kaymakamlık Önü,K.S.S. Bulvarı,41.1035039211317,28.8037826010798
+Araç Alt Geçidi,4.Etap Köprüsü,BAŞAKŞEHİR,BAŞAK,Sular Vadisi Üstü ,K.S.S. Bulvarı,41.1030754624239,28.8070344285777
+Köprü,Kızılay Cad. Köprüsü,BAŞAKŞEHİR,BAŞAK,Kadife Tekstil Önü,Kızılay Cad. Köprüsü,41.0834468796387,28.8106685177473
+Yaya Üst Geçidi,Doğan Araslı R.T.E.Parki Yaya Üst Geçidi,ESENYURT,ZAFER,RTE Parkı,Doğan Araslı Bulvarı,41.0174018770277,28.6897467453237
+Köprü,Doğan Araslı-Bağ.Yolu Kesişimi,ESENYURT,SULTANİYE,Belediye Binası Yanı,Doğan Araslı Bulvarı,41.0267952529734,28.6843409222658
+Köprü,Nazım Hİkmet Bulvarı Dere Köprüsü,ESENYURT,YEŞİLKENT,Devlet Hastanesi Önü,Nazım Hikmet Bulvarı,41.0280933404211,28.6657170785379
+Köprü,Halkalı  Toplu Konut-2,KÜÇÜKÇEKMECE,ATAKENT,TOKİ nilüfer Anaokulu,Halkalı  Toplu Konut-2,41.0426357463259,28.7912613250724
+Yaya Üst Geçidi,Füze Rampası,KÜÇÜKÇEKMECE,KARTALTEPE,Nikah Sarayı,D-100,41.0007149951861,28.8049617909775
+Yaya Üst Geçidi,Sefaköy,KÜÇÜKÇEKMECE,KARTALTEPE,Eski Belediye Önü,D-100,40.9988969106667,28.7990071622356
+Köprü,Hürriyet Cad  2 No'lu Kavşak,KÜÇÜKÇEKMECE,ATAKENT,Halkalı Kağıt Fabrikası,Hürriyet,41.0443574273973,28.8053577454553
+Yaya Üst Geçidi,Yarımburgaz Yaya Üst Geçidi,KÜÇÜKÇEKMECE,YARIMBURGAZ,Altınşehir İ.Ö.O.,O3 Ggüney Yan Yol,41.0611892672232,28.750656946723
+Köprü,Yeşilköy Fener Cad. Tren Üst Geçidi,BAKIRKÖY,ZUHURATBABA,Havuzlu Kavşak,Yeşilköy Fener Cad. Tren Üst Geçidi,40.9635313117353,28.8343127915017
+Köprü,Piyalepaşa Bulvarı Perpa Arkası Araç Üst Geçidi,BEYOĞLU,HALİL RIFAT PAŞA,Piyalepaşa Bulvarı Perpa Arkası,Piyalepaşa Bulvarı,41.0605417498701,28.9727185293706
+Yaya Üst Geçidi,Cemal Kamacı Spor Kompleksi Önü Yaya Üst Geçidi,BEYOĞLU,HALICIOĞLU,Cemal Kamacı Spor Kompleksi Önü Üst Geçidi,Darülaceze Cad.,41.0530320852903,28.9592406769784
+Araç Alt Geçidi,Zincirlikuyu Mezarlığı Önü Araç Alt Geçidi,ŞİŞLİ,ESENTEPE,Zincirlikuyu Mezarlığı Önü,Nisbetiye Cad.,41.0741149788754,29.0154575696722
+Köprü,Kemerburgaz Hasdal TEM Araç Üst Geçidi,KAĞITHANE,HAMİDİYE,Kemerburgaz Hasdal TEM Üst Geçit,Tem Otoyolu,41.0992451969158,28.9580504088578
+Araç Alt Geçidi,Şehit Hasan Güreşen  Araç Alt Geçidi,SULTANGAZİ,50. YIL,Şehit Hasan Güreşen,Ordu Cad.,41.089609116307,28.8648033200877
+Köprü (Dere),Ahmediye-Bahşayiş Yolu,ÇATALCA,BAHŞAYİŞ,Aksaray Cad. Mevkii,Ahmediye-Bahşayiş Cad.,41.1102780297912,28.5361056010502
+Menfez,Çayırdere-Hallaçlı Yolu 6,ÇATALCA,HALLAÇLI,Mahalle Girişi,Milli Şair Cad.,41.3211115795726,28.1032081328414
+Köprü (Dere),Nakkaş-İzzettin Yolu,ÇATALCA,NAKKAŞ,"İzzettin'den Nakkaş istikametine
+giderken 1+800 km sonra",İzzetbaba Cad.,41.1852280317744,28.5234134375791
+Köprü (Dere),Yazlık Mahallesi,ÇATALCA,YAZLIK,Yazlık Mahallesi Girişi,Yetkin Sok.,41.2936987228551,28.5131618687605
+Köprü (Dere),Çayırdere-Hallaçlı Yolu 3,ÇATALCA,HALLAÇLI,"Çayıdere Yönünden Hallaçlı  İsitikametine 
+Giderken Mahalle Çıkışından 2+800 km. Sonra",Milli Şair Cad.,41.3034767385973,28.1216368695569
+Menfez,Akören-Kadıköy Yolu 1,SİLİVRİ,AKÖREN,"Akören Yönünden Kadıköy 
+İstikametine Giderken 1+650 km. Sonra",Uygun Sok.,41.188287004425,28.3591423925041
+Menfez,Akören-Kadıköy Yolu 3,SİLİVRİ,KADIKÖY,"Akören yönünden Kadıköy 
+İstikametine Giderken 3+250 km. Sonra",Uygun Sok.,41.1744139049764,28.3649227234997
+Yaya Üst Geçidi,Celaliye Üst Geçidi,BÜYÜKÇEKMECE,CELALİYE,Atatürk 1 Cad.,D100 Karayolu,41.0440538573132,28.413284036578
+Yaya Üst Geçidi,Kadir Has Üniversitesi Üst Geçidi,BÜYÜKÇEKMECE,SELİMPAŞA,Kadir Has Üniversitesi Kampüsü,D100 Karayolu,41.0522187720914,28.3837746481961
+Araç Üst Geçidi,O-6 Yolu Araç Üst Geçidi,BAĞCILAR,100.Yıl,Batışehir Arkası O-6 Yolu Araç Üst Geçidi,O-6 Yolu,41.0652200872589,28.844757968734
+Araç Üst Geçidi,Metris Kavşağı 1 Köprüsü,SULTANGAZİ,CUMHURİYET,TEM Gaziosmanpaşa Bağlantısı Eski Edirne Asfaltı Cad. Kesişimi,Bilinmiyor,41.0814643518464,28.8725999412591
+Araç Alt Geçidi,Akpınar Caddesi O-3 Altı Araç Alt Geçidi,BAYRAMPAŞA,Bilinmiyor,Bilinmiyor,Bilinmiyor,41.0422495177548,28.899091502819
+Araç Üst Geçidi,Akpınar Caddesi Araç Üst Geçidi,BAYRAMPAŞA,KOCATEPE,Akpınar Cad. - 50.Yıl Caddesi Bağlantı Köprüsü,Akpınar Caddesi,41.0461329600962,28.9000216756566
+Araç Alt Geçidi,Malazgirt Caddesi Araç Alt Geçidi,BAĞCILAR,HÜRRİYET,Malazgirt Caddesi Bağcılar E.M.Lisesi Yönü,Malazgirt Caddesi,41.024091215995,28.837716977473
+Araç Üst Geçidi,S.Demirel Bulvarı YSS Yolu Bağlantı Köprüsü,BAĞCILAR,MAHMUTBEY,YSS Yolu Bağlantısı,O-6 Bağlantı Yolu,41.0666692068628,28.814260936559
+Araç Üst Geçidi,E-80 Bağlantı Yolu Araç Üst Geçidi,BAYRAMPAŞA,Bilinmiyor,Bilinmiyor,E 80 Bağlantı Yolu,41.0570928271041,28.8893520602049
+Araç Alt Geçidi,O-3 Güney Yanyol- O-3 Bağlantısı Alt Geçidi,BAĞCILAR,GÖZTEPE,O-3 Göztepe Girişi,O-3 Güney Yanyol,41.0601961321488,28.8425177325968
+Araç Alt Geçidi,Şehir Parkı Cad. Araç Alt Geçidi,BAYRAMPAŞA,KOCATEPE,Şehir Parkı Cad. E 80 Bağlantı Yolu Altı,Şehir Parkı Cad.,41.057759445261,28.8913049568496
+Menfez,Değirmenköy-B.Çavuşlu Yolu 5,SİLİVRİ,İSMETPAŞA,Tavukçu Yolu Mevkii,Gölet Cad.,41.1133334393555,28.0169152382582
+Araç Alt Geçidi,10.Yıl Caddesi,ZEYTİNBURNU,KAZLIÇEŞME,Tren Alt Geçidi Demirhane Cad. Kesişimi,10. Yıl Cad.,40.9921770185994,28.9195942305311
+Köprü,Vadi İstanbul Giriş Köprüsü,KAĞITHANE,Bilinmiyor,Orman Yolu Vadi İstanbul Yanı,Orman Yolu,41.1041031049556,28.9839758480214
