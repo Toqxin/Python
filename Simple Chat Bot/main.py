@@ -24,19 +24,23 @@ def process_input(user_input):
         google_search(query)
         responded = True
 
-    if 'notepad' in user_input_lower:
+    elif 'notepad' in user_input_lower:
         speak('I am opening notepad')
         notepad()
         responded = True
 
-    if 'calculator' in user_input_lower:
+    elif 'calculator' in user_input_lower:
         speak('I am opening calculator')
         calculator()
         responded = True
     
-    if 'email' in user_input_lower:
+    elif 'email' in user_input_lower:
         speak('I am opening mail')
         mail()
+        responded = True
+    
+    elif 'text page' in user_input_lower:
+        open_text_section()
         responded = True
 
     for clock_search in virtualData.questions_for_clock:
@@ -94,10 +98,48 @@ def mail():
     pyautogui.write('Mail', interval=0.10)
     pyautogui.press('enter')
 
+#talking to a bot in text
+def open_text_section():
+    while True:
+        get_text = input("You: ")
+        if get_text == "back":
+            break
+        
+        elif 'google' in get_text:
+            value_for_search = input("enter your idea: ")
+            google_search(value_for_search)
+        
+        elif get_text in virtualData.question_for_date:
+            speak(datetime.datetime.now().strftime("%m-%d-%Y"))
+            
+        elif get_text in virtualData.questions_for_clock:
+            speak(datetime.datetime.now().strftime("%H:%M:%S"))
+
+        elif 'notepad' in get_text:
+            speak('I am opening notepad')
+            notepad()
+            
+        elif 'calculator' in get_text:
+            speak('I am opening calculator')
+            calculator()
+        
+        elif 'mail' in get_text:
+            speak('I am opening mail')
+            mail()
+
+        for text_key,text_value in virtualData.questions_for_name.items():
+            if text_key in get_text:
+                speak(text_value)
+
+        for text_key2,text_value2 in virtualData.shut_down_siona.items():
+            if text_key2 in get_text:
+                speak(text_value2)
+                sys.exit()
+        
 #another functions
 # def function():
 #     pass
-# ...
+#...
 
 #speech function for voice output
 def speak(text):
@@ -106,7 +148,7 @@ def speak(text):
     engine.runAndWait()
 
 #default voice output
-speak("Hello sir, what can I do for you?")
+speak("Hello sir what can I do for you?")
 
 while True:
     #receive user input via microphone
